@@ -40,12 +40,4 @@ Dr. Miura envisions establishing a translational research program that focuses o
 Dr. Miura is committed to promoting diversity and inclusion in science. He actively fosters an environment where researchers from all backgrounds can thrive, sharing his experiences as a first-generation college student to inspire and guide his mentees.
 Dr. Yuki Miura’s work represents the forefront of human neurobiology, bridging the gap between fundamental neuroscience and clinical applications to improve our understanding of brain development and disease.
 
-<div class="page__gallery__wrapper">
-  <div class="page__gallery__images">
-    <img src="/images/01-3.jpg" loading="lazy">
-    <img src="/images/01-4.jpg" loading="lazy">
-    <img src="/images/01-5.jpg" loading="lazy">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
 
