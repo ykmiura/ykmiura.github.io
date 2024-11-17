@@ -43,7 +43,7 @@ menu_settings:
 author:
   author_name: Yuki Miura
   author_role: Research Scientist
-  author_bio: 🧠 Neuroscience and Stem Cell Scientist ⭐️ Decoding the secrets of human brain development 💡 Passionate about unraveling neural circuit mysteries and tackling neuropsychiatric disorders 🧪 Expert in brain organoids, stem cell technologies, and functional cellular imaging to advance human neuroscience and make groundbreaking discoveries
+  author_bio: 🧠 Neuroscience and Stem Cell Scientist ⭐️ Decoding the secrets of human brain development 💡 Passionate about unraveling neural circuit mysteries and tackling neuropsychiatric disorders 🧪 Expert in brain organoids, stem cell technologies, and functional cellular imaging to advance human neuroscience
   author_avatar: '/images/01-1.jpg'
 
 #-------------------------------
@@ -79,7 +79,7 @@ gallery_settings:
 #-------------------------------
 # Social Icons Settings
 social:
-- {icon: "fa-brands fa-github", name: "Github", link: "https://github.com"}
+- {icon: "fa-brands fa-github", name: "Github", link: "https://github.com/ykmiura"}
 - {icon: "fa-brands fa-dribbble", name: "Dribbble", link: "https://dribbble.com"}
 
 # Example of adding a new link to the footer - {icon: "fa-brands fa-dribbble", name: "Dribbble" link: "https://dribbble.com"}
