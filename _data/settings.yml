@@ -53,31 +53,6 @@ projects_settings:
   projects_title: Portfolio
   projects_description:
 
-
-#-------------------------------
-# Testimonials Settings
-testimonials:
-  enable: true
-  testimonials_title: Testimonials
-  testimonials_description:
-
-testimonial_items:
-  - name: "Albert Flores"
-    image: "/images/client-1.jpg"
-    designation: "Data Scientist"
-    content : "The incredible attention to detail displayed by this team is commendable. Every aspect of our project, no matter how small, was handled with precision and care. The result is a product that reflects their commitment to excellence."
-
-  - name: "Wade Warren"
-    image: "/images/client-2.jpg"
-    designation: "DevOps Engineer"
-    content : "Working with this creative powerhouse was an enlightening experience. Their brilliance in design thinking and creative solutions brought our project to life in ways we hadn't imagined. The team's passion for innovation is truly infectious."
-
-  - name: "Jenny Wilson"
-    image: "/images/client-3.jpg"
-    designation: "Systems Analyst"
-    content : "This team proved to be efficient problem solvers throughout our project. When faced with challenges, they tackled them with creativity and resourcefulness. Their ability to overcome obstacles ensured a smooth and successful project delivery."
-
-
 #-------------------------------
 # Blog Section
 blog_settings:
@@ -100,18 +75,6 @@ gallery_settings:
   enable: true
   gallery_title: Gallery
   gallery_description:
-
-
-#-------------------------------
-# Newsletter Settings
-mailchimp_settings:
-  enable: true
-  mailchimp_identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
-  mailchimp_title: Get interesting news
-  mailchimp_description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
-  mailchimp_input_text: Your email address...
-  mailchimp_button_text: Join Me # Add your button text
-
 
 #-------------------------------
 # Social Icons Settings
