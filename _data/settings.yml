@@ -43,11 +43,10 @@ menu_settings:
 author:
   author_name: Yuki Miura
   author_role: Research Scientist
-  author_bio: 👨🏻‍💻 Geeky Web Designer ⭐️ Helping businesses create stunning online experiences 💡 Passionate about user-centered design and seamless functionality 🔥 Adobe Creative Suite expert ✨ Lover of clean code and responsive layouts 🚀 Let's turn your ideas into captivating websites together!
+  author_bio: 🧠 Geeky Neuroscientist ⭐️ Decoding the secrets of human brain development 💡 Passionate about unraveling neural circuit mysteries and tackling neuropsychiatric disorders Expert in brain organoids, stem cell technologies, and calcium imaging 🔬 Empowering the next generation of scientists through mentorship and innovation 🚀 Let's advance human neuroscience and make groundbreaking discoveries together!
   author_avatar: '/images/01-1.jpg'
   cta_button_text: Get In Touch
   cta_button_link: '/contact/'
-
 
 #-------------------------------
 # Projects Settings
