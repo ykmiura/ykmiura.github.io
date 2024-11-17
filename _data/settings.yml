@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Priam
+title: Yuki Miura
 description: Priam is a minimal portfolio theme for Jekyll.
 color_scheme: auto # You have the option to choose between three modes: auto, light, and dark. The default mode is set to auto, which means that the color scheme will automatically adapt based on your operating system settings. This way, you can enjoy a personalized experience without having to manually switch between light and dark modes.
 
@@ -41,8 +41,8 @@ menu_settings:
 #-------------------------------
 # Author Settings
 author:
-  author_name: Dave Nixon
-  author_role: Web Designer
+  author_name: Yuki Miura
+  author_role: Research Scientist
   author_bio: 👨🏻‍💻 Geeky Web Designer ⭐️ Helping businesses create stunning online experiences 💡 Passionate about user-centered design and seamless functionality 🔥 Adobe Creative Suite expert ✨ Lover of clean code and responsive layouts 🚀 Let's turn your ideas into captivating websites together!
   author_avatar: '/images/01-1.jpg'
   cta_button_text: Get In Touch
