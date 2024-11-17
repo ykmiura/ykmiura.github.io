@@ -22,19 +22,19 @@ breadcrumbs:
 # Navigation Settings
 menu_settings:
   menu_items:
-    - title: '🏠 Home'
+    - title: 'Home'
       url: '/'
-    - title: '🚀 Projects'
+    - title: 'Research'
       url: '/projects/'
-    - title: '🎬 Videos'
+    - title: 'Videos'
       url: '/videos/'
-    - title: '👨🏻‍💻 About'
+    - title: 'About'
       url: '/about/'
-    - title: '📷 Gallery'
+    - title: 'Gallery'
       url: '/gallery/'
-    - title: '✍️ Blog'
+    - title: 'Blog'
       url: '/blog/'
-    - title: '📔 Elements'
+    - title: 'Elements'
       url: '/elements/'
 
 
