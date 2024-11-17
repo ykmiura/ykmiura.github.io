@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 👨🏻‍💻 About
-description: Dave Nixon is a highly skilled web designer with years of industry experience. His creative journey began with a fascination for blending art and technology, and he has since honed his skills to become a versatile designer who can transform ideas into captivating visual narratives.
+description: Yuki Miura is a neuroscientist with extensive experience in human brain development and neural circuit research. His scientific journey began with a deep curiosity about the molecular mechanisms of brain assembly, leading him to pioneer cutting-edge methodologies using stem cell-based brain organoids and assembloids. Over the years, he has honed his expertise to become a leader in decoding the complexities of neural connectivity and its implications for neuropsychiatric disorders, transforming fundamental questions into groundbreaking discoveries.
 permalink: /about/
 image: '/images/01-2.jpg'
 page_cover: '/images/01.jpg'
