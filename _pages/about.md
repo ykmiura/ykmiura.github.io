@@ -7,12 +7,12 @@ image: '/images/01-2.jpg'
 page_cover: '/images/01.jpg'
 ---
 
-Dr. Yuki Miura is an accomplished neuroscientist specializing in human neural circuit development, stem cell biology, and the modeling of neuropsychiatric disorders. Her pioneering work utilizes advanced stem cell-based brain organoid and assembloid technologies to investigate the mechanisms underlying neural circuit assembly and their dysfunction in diseases such as autism spectrum disorders, schizophrenia, and Tourette syndrome.
+Dr. Yuki Miura is an accomplished neuroscientist specializing in human neural circuit development, stem cell biology, and the modeling of neuropsychiatric disorders. His pioneering work utilizes advanced stem cell-based brain organoid and assembloid technologies to investigate the mechanisms underlying neural circuit assembly and their dysfunction in diseases such as autism spectrum disorders, schizophrenia, and Tourette syndrome.
 
 Education and Training
 
-Dr. Miura received her Ph.D. in Human Biology from the University of Tsukuba, Japan, where she studied the biochemical and physiological roles of the small G protein Arf6 and its regulator ACAP3 in neuronal development. Her groundbreaking doctoral research elucidated the molecular mechanisms of neurite morphogenesis and cortical neuron migration, contributing significantly to our understanding of central nervous system development.
-Following her Ph.D., Dr. Miura joined Stanford University as a postdoctoral fellow under the mentorship of Dr. Sergiu P. Pașca. During this time, she developed novel human stem cell-derived models, including cortical and striatal organoids, and integrated these into assembloids to study long-range neural circuit connections. These models have been instrumental in identifying cellular and circuit-level phenotypes in patient-derived cells.
+Dr. Miura received his Ph.D. in Human Biology from the University of Tsukuba, Japan, where he studied the biochemical and physiological roles of the small G protein Arf6 and its regulator ACAP3 in neuronal development. His doctoral research elucidated the molecular mechanisms of neurite morphogenesis and cortical neuron migration, contributing significantly to our understanding of central nervous system development.
+Following his Ph.D., Dr. Miura joined Stanford University as a postdoctoral fellow under the mentorship of Dr. Sergiu P. Pașca. During this time, he developed novel human stem cell-derived models, including cortical and striatal organoids, and integrated these into assembloids to study long-range neural circuit connections. These models have been instrumental in identifying cellular and circuit-level phenotypes in patient-derived cells.
 
 Research Contributions
 
@@ -23,22 +23,22 @@ Dr. Miura's research has led to the development of innovative methodologies for 
 
 Teaching and Mentorship
 
-Dr. Miura has mentored a diverse group of trainees, ranging from high school students to postdoctoral researchers, fostering their growth in scientific research and career development. She is passionate about equity in education and has received the Bio-X Star Mentor Award for her contributions to undergraduate research training at Stanford.
+Dr. Miura has mentored a diverse group of trainees, ranging from high school students to postdoctoral researchers, fostering their growth in scientific research and career development. He is passionate about equity in education and has received the Bio-X Star Mentor Award for her contributions to undergraduate research training at Stanford.
 
 Awards and Recognition
 
-Dr. Miura has been recognized for her scientific excellence with several prestigious awards, including:
+Dr. Miura has been recognized for his scientific excellence with several prestigious awards, including:
 - Tourette Association of America Young Investigator Award (2022–2024)
 - Bio-X Star Mentor Award (2021)
 - Outstanding Young Scientist Award at the Tsukuba Medical Science Research Meeting (2013)
 
 Future Goals
 
-As a faculty candidate, Dr. Miura envisions establishing a translational research program that focuses on the pathophysiology of cortico-basal ganglia circuits. Using cutting-edge techniques such as genome editing, high-resolution imaging, and assembloid platforms, her work aims to uncover the cellular and circuit-level mechanisms driving neuropsychiatric conditions and identify therapeutic targets.
+Dr. Miura envisions establishing a translational research program that focuses on the pathophysiology of cortico-basal ganglia circuits. Using cutting-edge techniques such as genome editing, high-resolution imaging, and assembloid platforms, his work aims to uncover the cellular and circuit-level mechanisms driving neuropsychiatric conditions and identify therapeutic targets.
 
 Personal Philosophy
 
-Dr. Miura is committed to promoting diversity and inclusion in science. She actively fosters an environment where researchers from all backgrounds can thrive, sharing her experiences as a first-generation college student to inspire and guide her mentees.
+Dr. Miura is committed to promoting diversity and inclusion in science. He actively fosters an environment where researchers from all backgrounds can thrive, sharing his experiences as a first-generation college student to inspire and guide his mentees.
 Dr. Yuki Miura’s work represents the forefront of human neurobiology, bridging the gap between fundamental neuroscience and clinical applications to improve our understanding of brain development and disease.
 
 <div class="page__gallery__wrapper">
