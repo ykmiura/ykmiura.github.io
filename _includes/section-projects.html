@@ -1,0 +1,47 @@
+{% if site.data.settings.projects_settings.enable == true %}
+<!-- begin projects -->
+<section class="section projects">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="container__inner">
+
+          <div class="section__info">
+            <div class="section__head">
+              <h2 class="section__title"><i class="fa-solid fa-rocket"></i> {{ site.data.settings.projects_settings.projects_title }}</h2>
+              <a class="section__link" href="{{ '/projects' | relative_url }}">View all <i class="fa-solid fa-arrow-right-long"></i></a>
+            </div>
+            {% if site.data.settings.projects_settings.projects_description %}
+              <p class="section__description">{{ site.data.settings.projects_settings.projects_description }}</p>
+            {% endif %}
+          </div>
+
+          <div class="row">
+            {% assign sorted = site.projects | sort: 'date' | reverse %}
+            {% for project in sorted limit:4 %}
+            <article class="project col col-6 col-t-12 animate">
+              <div class="project__content">
+                <div class="project__info">
+                  <h3 class="project__title"><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
+                  {% if project.description %}
+                    <div class="project__description">{{ project.description }}</div>
+                  {% endif %}
+                </div>
+                {% if project.image %}
+                <a href="{{ project.url | relative_url }}" class="project__image">
+                  <img class="lazy" data-src="{{ project.image | relative_url }}" alt="{{ project.title }}">
+                </a>
+                {% endif %}
+              </div>
+            </article>
+            {% endfor %}
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+</section>
+<!-- end projects -->
+{% endif %}

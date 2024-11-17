@@ -1,0 +1,50 @@
+---
+layout: default
+title: 📩 Contact
+permalink: /contact/
+image: '/images/103.jpg'
+page_cover:
+---
+
+<!-- begin page -->
+<article class="page container">
+
+  <div class="page-head">
+    <h1 class="page-title">{{ page.title }}</h1>
+    {% if page.description %}
+    <p class="page-description">{{ page.description }}</p>
+    {% elsif site.data.settings.contact.description %}
+    <p class="page-description">{{ site.data.settings.contact.description }}</p>
+    {% endif %}
+  </div>
+
+  {% if page.image %}
+  <div class="page-image">
+    <img class="lazy" data-src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+  </div>
+  {% endif %}
+
+  <div class="page__content">
+    <div class="form-box">
+      <form class="form" action="{% if site.data.settings.contact.email %}https://formspree.io/f/{{site.data.settings.contact.email}}{% else %}#{% endif %}" method="POST">
+        <div class="form__group">
+          <label class="form__label screen-reader-text" for="form-name">Your name...</label>
+          <input class="form__input" id="form-name" type="text" name="name" placeholder="Your name..." required>
+        </div>
+        <div class="form__group">
+          <label class="form__label screen-reader-text" for="form-email">Your email...</label>
+          <input class="form__input" id="form-email" type="email" name="_replyto" placeholder="Your email..." required>
+        </div>
+        <div class="form__group">
+          <label class="form__label screen-reader-text" for="form-text">Your message...</label>
+          <textarea class="form__input" id="form-text" name="text" rows="7" placeholder="Your message..." required></textarea>
+        </div>
+        <div class="form__group">
+          <button class="button button--big" type="submit">Send Message</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+</article>
+<!-- end page -->

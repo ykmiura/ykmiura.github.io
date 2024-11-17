@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body class="{% if site.data.settings.color_scheme == "auto" %}scheme--toggle{% else %}scheme--{{ site.data.settings.color_scheme }}{% endif %}">
+
+  {% if site.data.settings.google-analytics %}
+    {% include google-analytics.html %}
+  {% endif %}
+
+  {% if site.data.settings.global_cover.enable == true and site.data.settings.global_cover.homepage_image and page.url == '/' %}
+  <div class="global-cover">
+    <img src="{{ site.data.settings.global_cover.homepage_image | relative_url }}" alt="{{ site.data.settings.title }}">
+  </div>
+  {% elsif page.page_cover %}
+  <div class="global-cover">
+    <img src="{{ page.page_cover | relative_url }}" alt="{{ page.title }}">
+  </div>
+  {% endif %}
+
+  <div class="global-content">
+
+    {% if page.url == '/' %}
+      {% include section-author.html %}
+    {% endif %}
+
+    {% include header.html %}
+
+    {% if page.url != '/' and site.data.settings.breadcrumbs.enable == true %}
+      {% include breadcrumbs.html %}
+    {% endif %}
+
+    <!-- begin content -->
+    <main class="content{% if site.data.settings.breadcrumbs.enable == true %} with-breadcrumbs{% endif %}" aria-label="Content">
+      {{ content }}
+    </main>
+    <!-- end content -->
+
+    {% include section-subscribe.html %}
+
+    {% include footer.html %}
+
+  </div>
+
+  <script src="{{ site.baseurl }}/js/scripts.js"></script>
+  <script src="{{ site.baseurl }}/js/common.js"></script>
+</body>
+
+</html>

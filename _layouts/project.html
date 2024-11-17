@@ -1,0 +1,62 @@
+---
+layout: default
+---
+
+<!-- begin page -->
+<article class="page container">
+
+  <div class="page-head">
+    <h1 class="page-title">{{ page.title }}</h1>
+    {% if page.description %}
+    <p class="page-description">{{ page.description }}</p>
+    {% endif %}
+    {% if page.label %}
+    <span class="page-label">{{ page.label }}</span>
+    {% endif %}
+  </div>
+
+  {% if page.image %}
+  <div class="page-image">
+    <img class="lazy" data-src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.title }}">
+  </div>
+  {% endif %}
+
+  <div class="page__content">
+    {{ content }}
+  </div>
+
+  {% include share-buttons.html %}
+
+  <div class="section-related">
+    <h4 class="section-related__title">Discover more...</h4>
+    <div class="row">
+      {% assign project-collection = site[page.collection] | sample:3 %}
+      {% assign relatedCount = 0 %}
+      {% for project in project-collection %}
+      {% if project.url != page.url %}
+      <article class="project col col-6 col-t-12">
+        <div class="project__content">
+          <div class="project__info">
+            <h3 class="project__title"><a href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a></h3>
+            {% if project.description %}
+            <div class="project__description">{{ project.description }}</div>
+            {% endif %}
+          </div>
+          {% if project.image %}
+          <a href="{{ project.url | prepend: site.baseurl }}" class="project__image">
+            <img class="lazy" data-src="{{ site.baseurl }}{{ project.image }}" alt="{{ project.title }}">
+          </a>
+          {% endif %}
+        </div>
+      </article>
+      {% assign relatedCount = relatedCount | plus: 1 %}
+      {% if relatedCount >= 2 %}
+        {% break %}
+      {% endif %}
+      {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+
+</article>
+<!-- end page -->

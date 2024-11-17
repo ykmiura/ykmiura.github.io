@@ -1,0 +1,25 @@
+{% if site.data.settings.mailchimp_settings.enable == true %}
+<!-- begin subscribe -->
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      <section class="subscribe">
+        <div class="subscribe__head">
+          <h2 class="subscribe__title">{{ site.data.settings.mailchimp_settings.mailchimp_title }}</h2>
+          {% if site.data.settings.mailchimp_settings.mailchimp_description %}
+            <p class="subscribe__description">{{ site.data.settings.mailchimp_settings.mailchimp_description }}</p>
+          {% endif %}
+        </div>
+        <div class="subscribe__inner">
+          <form class="subscribe__form validate" action="{% if site.data.settings.mailchimp_settings.mailchimp_identifier %}//{{ site.data.settings.mailchimp_settings.mailchimp_identifier }}{% else %}#{% endif %}" method="POST" id="membedded-subscribe-form" name="membedded-subscribe-form" target="_blank" novalidate>
+            <label class="screen-reader-text" for="mce-EMAIL">Email address</label>
+            <input class="subscribe__email required email" id="mce-EMAIL" type="text" name="EMAIL" placeholder="{% if site.data.settings.mailchimp_settings.mailchimp_input_text %}{{ site.data.settings.mailchimp_settings.mailchimp_input_text }}{% else %}Email address{% endif %}">
+            <button class="button" id="membedded-subscribe" type="submit" name="subscribe">{{ site.data.settings.mailchimp_settings.mailchimp_button_text }}</button>
+          </form>
+        </div>
+      </section>
+    </div>
+  </div>
+</div>
+<!-- end subscribe -->
+{% endif %}

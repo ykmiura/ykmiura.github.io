@@ -1,0 +1,47 @@
+{% if site.data.settings.videos_settings.enable == true %}
+<!-- begin videos -->
+<section class="section videos">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="container__inner">
+
+          <div class="section__info">
+            <div class="section__head">
+              <h2 class="section__title"><i class="fa-solid fa-film"></i> {{ site.data.settings.videos_settings.videos_title }}</h2>
+              <a class="section__link" href="{{ '/videos' | relative_url }}">View all <i class="fa-solid fa-arrow-right-long"></i></a>
+            </div>
+            {% if site.data.settings.videos_settings.videos_description %}
+              <p class="section__description">{{ site.data.settings.videos_settings.videos_description }}</p>
+            {% endif %}
+          </div>
+
+          <div class="row">
+            {% assign sorted = site.videos | sort: 'date' | reverse %}
+            {% for video in sorted limit:2 %}
+            <article class="video col col-6 col-t-12 animate">
+              <div class="video__content">
+                {% if video.image %}
+                <a href="{{ video.url | relative_url }}" class="video__image">
+                  <img class="lazy" data-src="{{ video.image | relative_url }}" alt="{{ video.title }}">
+                </a>
+                {% endif %}
+                <div class="video__info">
+                  <span class="video__icon">
+                    <i class="fa-brands fa-youtube"></i>
+                  </span>
+                  <h3 class="video__title"><a href="{{ video.url | relative_url }}">{{ video.title }}</a></h3>
+                </div>
+              </div>
+            </article>
+            {% endfor %}
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+</section>
+<!-- end videos -->
+{% endif %}

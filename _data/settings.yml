@@ -1,0 +1,154 @@
+#-------------------------------
+# Site Settings
+title: Priam
+description: Priam is a minimal portfolio theme for Jekyll.
+color_scheme: auto # You have the option to choose between three modes: auto, light, and dark. The default mode is set to auto, which means that the color scheme will automatically adapt based on your operating system settings. This way, you can enjoy a personalized experience without having to manually switch between light and dark modes.
+
+
+#-------------------------------
+# Global Cover
+global_cover:
+  enable: true
+  homepage_image: "/images/01.jpg" # This line allows you to add a beautiful image at the top of your site, creating an eye-catching visual element that enhances the overall appearance and appeal.
+
+
+#-------------------------------
+# Breadcrumbs
+breadcrumbs:
+  enable: true # This line of code enables you to easily incorporate breadcrumbs into your website. By setting the "enable" parameter to "true", breadcrumbs will be enabled on your website, allowing users to easily track their navigation and find relevant information. Conversely, setting the parameter to "false" will disable the display of breadcrumbs, removing this navigation feature from your website.
+
+
+#-------------------------------
+# Navigation Settings
+menu_settings:
+  menu_items:
+    - title: '🏠 Home'
+      url: '/'
+    - title: '🚀 Projects'
+      url: '/projects/'
+    - title: '🎬 Videos'
+      url: '/videos/'
+    - title: '👨🏻‍💻 About'
+      url: '/about/'
+    - title: '📷 Gallery'
+      url: '/gallery/'
+    - title: '✍️ Blog'
+      url: '/blog/'
+    - title: '📔 Elements'
+      url: '/elements/'
+
+
+#-------------------------------
+# Author Settings
+author:
+  author_name: Dave Nixon
+  author_role: Web Designer
+  author_bio: 👨🏻‍💻 Geeky Web Designer ⭐️ Helping businesses create stunning online experiences 💡 Passionate about user-centered design and seamless functionality 🔥 Adobe Creative Suite expert ✨ Lover of clean code and responsive layouts 🚀 Let's turn your ideas into captivating websites together!
+  author_avatar: '/images/01-1.jpg'
+  cta_button_text: Get In Touch
+  cta_button_link: '/contact/'
+
+
+#-------------------------------
+# Projects Settings
+projects_settings:
+  enable: true
+  projects_title: Portfolio
+  projects_description:
+
+
+#-------------------------------
+# Testimonials Settings
+testimonials:
+  enable: true
+  testimonials_title: Testimonials
+  testimonials_description:
+
+testimonial_items:
+  - name: "Albert Flores"
+    image: "/images/client-1.jpg"
+    designation: "Data Scientist"
+    content : "The incredible attention to detail displayed by this team is commendable. Every aspect of our project, no matter how small, was handled with precision and care. The result is a product that reflects their commitment to excellence."
+
+  - name: "Wade Warren"
+    image: "/images/client-2.jpg"
+    designation: "DevOps Engineer"
+    content : "Working with this creative powerhouse was an enlightening experience. Their brilliance in design thinking and creative solutions brought our project to life in ways we hadn't imagined. The team's passion for innovation is truly infectious."
+
+  - name: "Jenny Wilson"
+    image: "/images/client-3.jpg"
+    designation: "Systems Analyst"
+    content : "This team proved to be efficient problem solvers throughout our project. When faced with challenges, they tackled them with creativity and resourcefulness. Their ability to overcome obstacles ensured a smooth and successful project delivery."
+
+
+#-------------------------------
+# Blog Section
+blog_settings:
+  enable: true
+  blog_title: Writing
+  blog_description:
+
+
+#-------------------------------
+# Videos Settings
+videos_settings:
+  enable: true
+  videos_title: Videos
+  videos_description:
+
+
+#-------------------------------
+# Gallery Section
+gallery_settings:
+  enable: true
+  gallery_title: Gallery
+  gallery_description:
+
+
+#-------------------------------
+# Newsletter Settings
+mailchimp_settings:
+  enable: true
+  mailchimp_identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
+  mailchimp_title: Get interesting news
+  mailchimp_description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
+  mailchimp_input_text: Your email address...
+  mailchimp_button_text: Join Me # Add your button text
+
+
+#-------------------------------
+# Social Icons Settings
+social:
+- {icon: "fa-brands fa-facebook", name: "Facebook", link: "https://facebook.com"}
+- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
+- {icon: "fa-brands fa-github", name: "Github", link: "https://github.com"}
+- {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com"}
+- {icon: "fa-brands fa-tiktok", name: "Tiktok", link: "https://tiktok.com"}
+- {icon: "fa-brands fa-youtube", name: "Youtube", link: "https://youtube.com"}
+- {icon: "fa-brands fa-pinterest", name: "Pinterest", link: "https://pinterest.com"}
+- {icon: "fa-brands fa-dribbble", name: "Dribbble", link: "https://dribbble.com"}
+- {icon: "fa-brands fa-microsoft", name: "Microsoft", link: "https://microsoft.com"}
+- {icon: "fa-brands fa-vimeo-v", name: "Vimeo", link: "https://vimeo.com"}
+
+# Example of adding a new link to the footer - {icon: "fa-brands fa-dribbble", name: "Dribbble" link: "https://dribbble.com"}
+# Other icons can be found at https://fontawesome.com/search?o=r&m=free
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: your@email.com # Add your form_id
+  description: Priam comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+
+# NOTE
+# Priam theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your GA Tracking Id

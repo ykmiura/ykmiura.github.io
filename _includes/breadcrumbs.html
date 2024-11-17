@@ -1,0 +1,18 @@
+{% assign url = page.url | replace: site.baseurl, '' %}
+{% capture path %}{{ site.baseurl }}{% endcapture %}
+<div class="breadcrumbs">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        {% assign url_parts = url | split: '/' %}
+        {% for element in url_parts %}
+          {% capture path %}{{ path }}{{ element }}/{% endcapture %}
+          {% if element != '' %}
+            » <a href='{{ path }}'>{{ element | replace:'-',' ' | remove:'.html' | capitalize }}</a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>

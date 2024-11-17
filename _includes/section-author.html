@@ -1,0 +1,37 @@
+<!-- begin author -->
+<section class="author">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+
+        <div class="author__box{% if site.data.settings.global_cover.enable == true and site.data.settings.global_cover.homepage_image and site.data.settings.author.author_avatar %} with-global-cover{% endif %}">
+          <div class="author__info">
+            <div class="author__meta">
+              {% if site.data.settings.author.author_avatar %}
+              <a href="{{ '/about' | relative_url }}" class="author__avatar">
+                <img src="{{ site.data.settings.author.author_avatar | relative_url }}" alt="{{ site.data.settings.author.author_name }}">
+              </a>
+              {% endif %}
+
+              {% if site.data.settings.author.author_name %}
+              <h1 class="author__name"><a href="{{ '/about' | relative_url }}">{{ site.data.settings.author.author_name }}</a></h1>
+              {% endif %}
+
+              {% if site.data.settings.author.author_role %}
+              <span class="author__role">{{ site.data.settings.author.author_role }}</span>
+              {% endif %}
+            </div>
+            {% if site.data.settings.author.cta_button_text %}
+            <a href="{{ site.data.settings.author.cta_button_link | relative_url }}" class="cta-button"><i class="fa-regular fa-envelope"></i> {{ site.data.settings.author.cta_button_text }}</a>
+            {% endif %}
+          </div>
+          {% if site.data.settings.author.author_bio %}
+          <p class="author__bio">{{ site.data.settings.author.author_bio }}</p>
+          {% endif %}
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end author -->

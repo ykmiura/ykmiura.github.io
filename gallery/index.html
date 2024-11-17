@@ -1,0 +1,46 @@
+---
+layout: default
+title: 📷 Gallery
+description: Welcome to my personal gallery, where memories come to life. As you explore my collection, I hope you find inspiration, a renewed appreciation for the beauty in everyday moments, and a sense of kinship with our shared human experiences. Join us as we celebrate life, love, and the extraordinary power of photography.
+page_cover: '/images/104.jpg'
+---
+
+<!-- begin page -->
+<div class="page container">
+
+  <div class="page-head">
+    <h1 class="page-title">{{ page.title }}</h1>
+    {% if page.description %}
+    <p class="page-section-description">{{ page.description }}</p>
+    {% endif %}
+  </div>
+
+  <div class="page__video">
+    <div class="row">
+    {% for gallery in site.gallery reversed %}
+    <div class="gallery__item col col-6 col-t-12 animate">
+      <div class="gallery__content">
+        <div class="gallery__images">
+          {% for images in gallery.images limit:2 %}
+          <div class="gallery__images__box">
+            <img class="lazy" data-src="{{ images.image | relative_url }}" alt="{{ images.alt }}">
+          </div>
+          {% endfor %}
+        </div>
+        <div class="gallery__info">
+          <a href="{{ gallery.url | relative_url }}" class="gallery__cover">
+            {% if gallery.cover %}
+            <img class="lazy" data-src="{{ gallery.cover | relative_url }}" alt="{{ gallery.title }}">
+            {% endif %}
+          </a>
+          <h3 class="gallery__title"><a href="{{ gallery.url | relative_url }}">{{ gallery.title }}</a></h3>
+          <span class="gallery__date">{% assign date_format = site.minima.date_format | default: "%Y" %}{{ gallery.date | date: date_format }}</span>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+    </div>
+  </div>
+
+</div>
+<!-- end page -->

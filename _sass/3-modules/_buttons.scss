@@ -1,0 +1,25 @@
+/* Buttons */
+.button {
+  display: inline-block;
+  padding: 16px 32px;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1;
+  text-decoration: none;
+  border-radius: $global-radius;
+  border: 1px solid var(--border-color);
+  transition: $global-transition;
+  color: var(--link-color);
+  background: var(--background-alt-color);
+  outline: 0;
+  cursor: pointer;
+
+  &:hover {
+    background: var(--button-background-hover);
+  }
+
+  &--big {
+    display: block;
+    width: 100%;
+  }
+}

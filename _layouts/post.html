@@ -1,0 +1,67 @@
+---
+layout: default
+---
+
+<!-- begin post -->
+<article class="post container">
+
+  <div class="post-head">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+    <div class="post-meta">
+      {% if page.tags.size >= 1 %}
+      <div class="post-tags">
+        Publish in&nbsp;
+        {% for tag in page.tags %}
+        <a href="{{ site.baseurl }}/tags#{{ tag }}" class="post__tag">{{ tag }}</a>
+        {% endfor %}
+      </div>
+      &nbsp;&bull;&nbsp;
+      {% endif %}
+      <time class="post-date" datetime="{{ page.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}{{ page.date | date: date_format }}</time>
+      {% assign words = page.content | number_of_words %}
+      {% if words >= 1 %}
+      &nbsp;&bull;&nbsp;
+      <span class="post-minutes">
+      {% if words < 360 %}
+        1 min read
+      {% else %}
+        {{ words | divided_by:180 }} min read
+      {% endif %}
+      </span>
+      {% endif %}
+    </div>
+    {% if page.description %}
+      <p class="post-description">{{ page.description }}</p>
+    {% endif %}
+  </div>
+
+  {% if page.video_embed %}
+  <div class="post-video">
+    <div class="post-video__wrap">
+      <iframe src="{{ page.video_embed }}" loading="lazy" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    </div>
+  </div>
+
+  {% else %}
+
+  {% if page.image %}
+  <div class="post-image">
+    <img class="lazy" data-src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.title }}">
+  </div>
+  {% endif %}
+
+  {% endif %}
+
+  <div class="post__content">
+    {{ content }}
+  </div>
+
+  {% include share-buttons.html %}
+
+  {% include related-posts.html %}
+</article>
+<!-- end post -->
+
+{% if site.data.settings.disqus-identifier %}
+  {% include disqus-comments.html %}
+{% endif %}

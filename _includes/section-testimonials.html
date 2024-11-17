@@ -1,0 +1,62 @@
+{% if site.data.settings.testimonials.enable == true %}
+<!-- begin testimonials -->
+<section class="section testimonials animate">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+
+        <div class="section__info">
+          <div class="section__head">
+            {% if site.data.settings.testimonials.testimonials_title %}
+            <h2 class="section__title"><i class="fa-solid fa-quote-left"></i> {{ site.data.settings.testimonials.testimonials_title }}</h2>
+            {% endif %}
+          </div>
+          {% if site.data.settings.testimonials.testimonials_description %}
+          <p class="section__description">{{ site.data.settings.testimonials.testimonials_description }}</p>
+          {% endif %}
+        </div>
+
+        <div class="testimonials__slider splide">
+          <div class="splide__track">
+            <div class="splide__list">
+              {% for testimonial_item in site.data.settings.testimonial_items %}
+              <div class="testimonial-item splide__slide">
+                <div class="testimonial-content">
+
+                  <i class="testimonial-icon fa-solid fa-quote-left"></i>
+
+                  {% if testimonial_item.content %}
+                  <p class="client-text">{{ testimonial_item.content }}</p>
+                  {% endif %}
+
+                  <div class="client-meta">
+                    {% if testimonial_item.image %}
+                    <div class="image-container">
+                      <img class="client-avatar" src="{{ testimonial_item.image | relative_url }}" alt="{{ testimonial_item.name }}">
+                    </div>
+                    {% endif %}
+                    <div class="client-info">
+                      {% if testimonial_item.name %}
+                      <h3 class="client-name">
+                        {{ testimonial_item.name }}
+                      </h3>
+                      {% endif %}
+                      {% if testimonial_item.designation %}
+                      <p class="client-designation">{{ testimonial_item.designation }}</p>
+                      {% endif %}
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end testimonials -->
+{% endif %}
