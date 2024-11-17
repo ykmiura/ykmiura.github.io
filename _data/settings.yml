@@ -43,7 +43,7 @@ menu_settings:
 author:
   author_name: Yuki Miura
   author_role: Research Scientist
-  author_bio: 🧠 Neuroscientist and Stem Cell biologist ⭐️ Decoding the secrets of human brain development 💡 Passionate about unraveling neural circuit mysteries and tackling neuropsychiatric disorders Expert in brain organoids, stem cell technologies, and calcium imaging 🔬 Empowering the next generation of scientists through mentorship and innovation 🚀 Let's advance human neuroscience and make groundbreaking discoveries together!
+  author_bio: 🧠 Neuroscientist and Stem Cell biologist ⭐️ Decoding the secrets of human brain development 💡 Passionate about unraveling neural circuit mysteries and tackling neuropsychiatric disorders 🧪 Expert in brain organoids, stem cell technologies, and calcium imaging 🔬 Empowering the next generation of scientists through mentorship and innovation 🚀 Let's advance human neuroscience and make groundbreaking discoveries together!
   author_avatar: '/images/01-1.jpg'
   cta_button_text: Get In Touch
   cta_button_link: '/contact/'
@@ -136,7 +136,7 @@ social:
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your form_id
+  email: miurayuki0531@gmail.com # Add your form_id
   description: Priam comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
 
 # NOTE
