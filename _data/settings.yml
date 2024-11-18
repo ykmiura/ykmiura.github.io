@@ -26,16 +26,10 @@ menu_settings:
       url: '/'
     - title: 'Research'
       url: '/projects/'
-    - title: 'Videos'
-      url: '/videos/'
     - title: 'About'
       url: '/about/'
     - title: 'Gallery'
       url: '/gallery/'
-    - title: 'Blog'
-      url: '/blog/'
-    - title: 'Elements'
-      url: '/elements/'
 
 
 #-------------------------------
