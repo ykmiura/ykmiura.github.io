@@ -54,19 +54,11 @@ projects_settings:
   projects_description:
 
 #-------------------------------
-# Blog Section
+# Publications Section
 blog_settings:
   enable: true
-  blog_title: Writing
+  blog_title: Publications
   blog_description:
-
-
-#-------------------------------
-# Videos Settings
-videos_settings:
-  enable: true
-  videos_title: Videos
-  videos_description:
 
 
 #-------------------------------
