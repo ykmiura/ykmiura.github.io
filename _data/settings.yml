@@ -28,6 +28,8 @@ menu_settings:
       url: '/projects/'
     - title: 'About'
       url: '/about/'
+    - title: 'Publications'
+      url: '/blog/'
     - title: 'Gallery'
       url: '/gallery/'
 
