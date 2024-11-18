@@ -54,14 +54,6 @@ projects_settings:
   projects_description:
 
 #-------------------------------
-# Publications Section
-blog_settings:
-  enable: true
-  blog_title: Publications
-  blog_description:
-
-
-#-------------------------------
 # Gallery Section
 gallery_settings:
   enable: true
