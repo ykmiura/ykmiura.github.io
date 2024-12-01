@@ -43,11 +43,11 @@ author:
   author_avatar: '/images/01-1.jpg'
 
 #-------------------------------
-# Research Settings
-projects_settings:
+# Publication Section
+blog_settings:
   enable: true
-  projects_title: Research
-  projects_description:
+  blog_title: Publication
+  blog_description:
 
 #-------------------------------
 # Gallery Section
