@@ -27,7 +27,10 @@ Yuki has mentored a diverse group of trainees, ranging from high school students
 
 - Tourette Association of America Young Investigator Award (2022–2024)
 - Bio-X Star Mentor Award (2021)
-- Outstanding Young Scientist Award at the Tsukuba Medical Science Research Meeting (2013)
-
-
-
+- Maternal & Child Health Research Institute Postdoctoral Support (2020–2021)
+- Stanford School of Medicine, Dean’s Postdoctoral Fellowship (2017–2018)
+- Young Scientist Award, Tsukuba Medical Science Research Meeting (2013)
+- Outstanding Award, The 11th Symposium on Molecular and Cellular Biology (2012)
+- Special Fellow Student, University of Tsukuba (2012-2017)
+- Outstanding Presentation, NTU-Tsukuba Research Forum (2011)
+  
