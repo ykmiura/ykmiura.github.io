@@ -5,8 +5,6 @@ permalink: /elements/
 image:
 page_cover:
 ---
-
-Yuki's postdoctoral research focused on reverse-bioengineering human neural circuit development and investigating neuropsychiatric disorders using stem cell-based organoid and assembloid technologies. Key achievements include the following works.
 ***
 (Preprints)
 
