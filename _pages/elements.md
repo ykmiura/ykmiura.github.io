@@ -7,34 +7,7 @@ page_cover:
 ---
 
 Yuki's postdoctoral research focused on reverse-bioengineering human neural circuit development and investigating neuropsychiatric disorders using stem cell-based organoid and assembloid technologies. Key achievements include the following works.
-
 ***
-
-## Headings by default:
-
-# H1 Default styles for headings
-## H2 Default styles for headings
-### H3 Default styles for headings
-#### H4 Default styles for headings
-##### H5 Default styles for headings
-###### H6 Default styles for headings
-
-***
-
-## Lists
-
-### Ordered list example:
-
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
-
-***
-
-### Unordered list example:
-
 (Preprints)
 
 * Miura Y.*, Kim J.*, Jurjuț O., Kelley KW., Yang X., Chen X., Thete MV., Revah O., Cui B., Pachitariu M., Pașca S. P.
@@ -135,17 +108,5 @@ Adv Biol Regul. 2017 Jan;63:115-121.
 
 ![Sea](/images/memories-9.jpg)
 *Photo by [Joel Mott](https://unsplash.com/photos/ImHttRUM2jE) on [Unsplash](https://unsplash.com/)*
-
-***
-
-## Youtube Embed
-
-<p><iframe src="https://www.youtube.com/embed/NFTstL115nY" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
-
-***
-
-## Vimeo Embed
-
-<p><iframe src="https://player.vimeo.com/video/148003889?h=d36b8b4cbb" loading="lazy" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
 
 ***
