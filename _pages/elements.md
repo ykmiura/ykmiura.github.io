@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 📔 Elements
+title: Publications
 permalink: /elements/
 image:
 page_cover:
 ---
 
-A paragraph looks like this — Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures. Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies.
+Yuki's postdoctoral research focused on reverse-bioengineering human neural circuit development and investigating neuropsychiatric disorders using stem cell-based organoid and assembloid technologies. Key achievements include the following works.
 
 ***
 
@@ -35,86 +35,84 @@ A paragraph looks like this — Globally incubate standards compliant channels b
 
 ### Unordered list example:
 
-* Bitters semiotics vice thundercats synth.
-* Literally cred narwhal bitters wayfarers.
-* Kale chips chartreuse paleo tbh street art marfa.
-* Mlkshk polaroid sriracha brooklyn.
-* Pug you probably haven't heard of them air plant man bun.
+(Preprints)
 
-### Task list
+* Miura Y.*, Kim J.*, Jurjuț O., Kelley KW., Yang X., Chen X., Thete MV., Revah O., Cui B., Pachitariu M., Pașca S. P.
+Assembloid model to study loop circuits of the human nervous system
+bioRxiv 2024 *Equal contribution
 
-- [ ] **Personal**
-  - [x] Grocery shopping
-  - [x] Gym workout
-  - [ ] Read a chapter from the book
-    - [x] Chapter 1
-    - [ ] Chapter 2
+* Narazaki G*., Miura Y.*, Pavlov S. D., Thete V. M., Roth J. G., Shin S., Heilshorn S. C., Pașca S. P.
+Biocompatible polymers for scalable production of human neural organoids
+bioRxiv 2022 [SPECTRUM NEWS] *Equal contribution
 
-***
+(Peer-reviewed articles)
+* Kim J.*, Miura Y.*, Li MY*., Revah O., Selvaraj S., Birey Y., Meng X., Thete V. M., Pavlov S. D., Andersen J., Pașca A. M., Porteus H. M., Huguenard J. R., Pașca S. P.
+Human assembloids reveal the consequences of CACNA1G gene variants in the thalamocortical pathway
+Neuron 2024 in press *Equal contribution
 
-## Table
+* Amin N.D.*, Kelly K.W.*, Kagonovsky K., Onesto M., Hao J., Miura Y., Narazaki G., Li T., McQueen P.J., Kulkarni S., Reis N., Pavlov S. D., Pașca S. P.
+Generating human neural diversity with a multiplexed morphogen screen in organoids
+Cell Stem Cell 2024 in press *Equal contribution
 
-<div class="table-container">
-  <table>
-    <tr><th>Header 1</th><th>Header 2</th><th>Header 3</th><th>Header 4</th><th>Header 5</th></tr>
-    <tr><td>Row:1 Cell:1</td><td>Row:1 Cell:2</td><td>Row:1 Cell:3</td><td>Row:1 Cell:4</td><td>Row:1 Cell:5</td></tr>
-    <tr><td>Row:2 Cell:1</td><td>Row:2 Cell:2</td><td>Row:2 Cell:3</td><td>Row:2 Cell:4</td><td>Row:2 Cell:5</td></tr>
-    <tr><td>Row:3 Cell:1</td><td>Row:3 Cell:2</td><td>Row:3 Cell:3</td><td>Row:3 Cell:4</td><td>Row:3 Cell:5</td></tr>
-    <tr><td>Row:4 Cell:1</td><td>Row:4 Cell:2</td><td>Row:4 Cell:3</td><td>Row:4 Cell:4</td><td>Row:4 Cell:5</td></tr>
-    <tr><td>Row:5 Cell:1</td><td>Row:5 Cell:2</td><td>Row:5 Cell:3</td><td>Row:5 Cell:4</td><td>Row:5 Cell:5</td></tr>
-    <tr><td>Row:6 Cell:1</td><td>Row:6 Cell:2</td><td>Row:6 Cell:3</td><td>Row:6 Cell:4</td><td>Row:6 Cell:5</td></tr>
-  </table>
-</div>
+* Yang X.*, Forró C*., Li T., Miura Y., Zaluska J. T., Tsai CT., Kanton S., McQueen P. J., Chen X., Mollo V., Santoro F., Pașca S. P., Cui B.
+Kirigami electronics for long-term electrophysiological recording of human neural organoids and assembloids
+Nature Biotechnology 2024 in press *Equal contribution
 
-***
+* Miura Y., Li MY., Revah O., Yoon S. J., Narazaki G., Pașca S. P.
+Engineering brain assembloids to interrogate human neural circuits
+Nat Protocols 2022 Jan 17(1):15-35. [Highlighted in Stem Cells: from Single Cells to the Clinic]
 
-## Quotes
+* Agoglia RM., Sun D., Birey F., Yoon S. J., Miura Y., Sabatini K., Pașca S. P., Fraser HB.
+Primate cell fusion disentangles gene regulatory divergence in neural development
+Nature. 2021 Mar 17 [Press Release][Nature Methods Research Highlight]
 
-### A quote looks like this:
+* Andersen J., Revah O., Miura Y., Thom N., Amin D. N., Kelly W. K., Singh M., Chen X., Thete V. M., Walczak M. E., Vogel H., Fan H. C., Pașca S. P.
+Generation of Functional Human 3D Cortico-Motor Assembloids
+Cell. 2020 Dec 14;S0092-8674(20)315434-8. [Press Release]
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
->
-> <cite>– George Bernard Shaw</cite>
+* Miura Y., Li MY., Birey F., Ikeda K., Revah O., Thete V. M., Park JY., Puno A., Lee H. S., Porteus H. M., Pașca S. P.
+Generation of human striatal organoids and cortico-striatal assembloids from human pluripotent stem cells
+Nat Biotechnol. 2020 Dec;38(12):1421-1430. [SPECTRUM NEWS]
 
-***
+* Marton R. M., Miura Y., Sloan S. A., Li Q., Revah O., Levy R. J., Huguenard J. R., Pașca S. P.
+Differentiation and maturation of oligodendrocytes in human three-dimensional neural cultures
+Nat Neurosci. 2019 Mar;22(3):484-491. [Press Release]
+
+* Yoon S. J., Elahi L. S., Pașca A. M., Marton R. M., Gordon A., Revah O., Miura Y., Walczak E. M., Holdgate G. M., Fan H. C., Huguenard J. R., Geschwind D. H., Pașca S. P.
+Reliability of human cortical organoid generation
+Nat Methods. 2019 Jan;16(1):75-78.
+
+* Ngo Thai Bich V., Hongu T., Miura Y., Katagiri N., Ohbayashi N., Yamashita-Kanemaru Y., Shibuya A., Funakoshi Y., Kanaho Y.
+Physiological function of phospholipase D2 in anti-tumor immunity: regulation of CD8+ T lymphocyte proliferation
+Sci Rep. 2018 Apr 19;8(1):6283.
+
+* Miura Y., Kanaho Y.
+ACAP3, the GTPase-activating protein specific to the small GTPase Arf6, regulates neuronal migration in the developing cerebral cortex
+Biochem Biophys Res Commun. 2017 Nov 18;493(2):1089-1094.
+
+* Miura Y.*, Ngo Thai Bich V*., Furuya M., Hasegawa H., Takahashi S., Katagiri N., Hongu T., Funakoshi Y., Ohbayashi N., Kanaho Y.
+The small G protein Arf6 expressed in keratinocytes by HGF stimulation is a regulator for skin wound healing
+Sci Rep. 2017 Apr 21;7:46649. *Equal contribution
+
+* Miura Y.*, Hongu T*., Yamauchi Y., Funakoshi Y., Katagiri N., Ohbayashi N., Kanaho Y.
+ACAP3 regulates neurite outgrowth through its GAP activity specific to Arf6 in mouse hippocampal neurons
+Biochem J. 2016 Sep 1;473(17):2591-602. *Equal contribution
+
+(Reviews and Preview papers)
+
+* Miura Y., Pașca S. P.
+Mapping human brain organoids on a spatial atlas
+Cell Stem Cell. (Preview) 2021 June;28(6):983-984.
+
+* Miura Y., Pașca S. P.
+Polarizing brain organoids
+Nat Biotechnol. (News and Views) 2019 Apr;37(4):377-378.
+
+* Yamauchi Y, Miura Y., Kanaho Y.
+Machineries regulating the activity of the small GTPase Arf6 in cancer cells are potential targets for developing innovative anti-cancer drugs
+Adv Biol Regul. 2017 Jan;63:115-121.
 
 
-
-## Syntax Highlighter
-
-{% highlight css %}
-body {
-  margin: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  width: 100vw;
-  background-color: #1c2021;
-}
-
-li {
-  width: 200px;
-  min-height: 250px;
-  border: 1px solid #000;
-  display: inline-block;
-  vertical-align: top;
-  margin: 5px;
-}
-{% endhighlight %}
-
-{% highlight js %}
-  $('.top').click(function () {
-    $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
-  });
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > $(window).height()) {
-      $('.top').addClass("top-active");
-    } else {
-      $('.top').removeClass("top-active");
-    };
-  });
-{% endhighlight %}
 
 ***
 
