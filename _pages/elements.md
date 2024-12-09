@@ -5,6 +5,19 @@ permalink: /elements/
 image:
 page_cover:
 ---
+
+<div class="page__gallery__wrapper">
+  <div class="page__gallery__images">
+    <img src="/images/memories-1.jpg" loading="lazy">
+    <img src="/images/memories-2.jpg" loading="lazy">
+    <img src="/images/memories-3.jpg" loading="lazy">
+    <img src="/images/memories-4.jpg" loading="lazy">
+    <img src="/images/memories-5.jpg" loading="lazy">
+    <img src="/images/memories-6.jpg" loading="lazy">
+  </div>
+  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+</div>
+
 ***
 (Preprints)
 
@@ -81,27 +94,5 @@ Nat Biotechnol. (News and Views) 2019 Apr;37(4):377-378.
 * Yamauchi Y, <ins>Miura Y.</ins>, Kanaho Y.<br>
 Machineries regulating the activity of the small GTPase Arf6 in cancer cells are potential targets for developing innovative anti-cancer drugs<br>
 Adv Biol Regul. 2017 Jan;63:115-121.
-
-***
-
-## Images
-
-![Photo](/images/12-1.jpg#wide)
-*Photo by [Blake Cheek](https://unsplash.com/photos/SiwWqSe8qrs) on [Unsplash](https://unsplash.com/)*
-
-<div class="page__gallery__wrapper">
-  <div class="page__gallery__images">
-    <img src="/images/memories-1.jpg" loading="lazy">
-    <img src="/images/memories-2.jpg" loading="lazy">
-    <img src="/images/memories-3.jpg" loading="lazy">
-    <img src="/images/memories-4.jpg" loading="lazy">
-    <img src="/images/memories-5.jpg" loading="lazy">
-    <img src="/images/memories-6.jpg" loading="lazy">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
-
-![Sea](/images/memories-9.jpg)
-*Photo by [Joel Mott](https://unsplash.com/photos/ImHttRUM2jE) on [Unsplash](https://unsplash.com/)*
 
 ***
