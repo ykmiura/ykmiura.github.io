@@ -5,20 +5,7 @@ permalink: /elements/
 image:
 page_cover:
 ---
-
-<div class="page__gallery__wrapper">
-  <div class="page__gallery__images">
-    <img src="/images/memories-1.jpg" loading="lazy">
-    <img src="/images/memories-2.jpg" loading="lazy">
-    <img src="/images/memories-3.jpg" loading="lazy">
-    <img src="/images/memories-4.jpg" loading="lazy">
-    <img src="/images/memories-5.jpg" loading="lazy">
-    <img src="/images/memories-6.jpg" loading="lazy">
-  </div>
-</div>
-
 (Preprints)
-
 * <ins>Miura Y.</ins><sup>*</sup>, Kim J.<sup>*</sup>, Jurjuț O., Kelley KW., Yang X., Chen X., Thete MV., Revah O., Cui B., Pachitariu M., Pașca S. P.<br>
 Assembloid model to study loop circuits of the human nervous system<br>
 bioRxiv 2024. *Equal contribution
@@ -94,3 +81,16 @@ Machineries regulating the activity of the small GTPase Arf6 in cancer cells are
 Adv Biol Regul. 2017 Jan;63:115-121.
 
 ***
+<div class="page__gallery__wrapper">
+  <div class="page__gallery__images">
+    <img src="/images/memories-1.jpg" loading="lazy">
+    <img src="/images/memories-2.jpg" loading="lazy">
+    <img src="/images/memories-3.jpg" loading="lazy">
+    <img src="/images/memories-4.jpg" loading="lazy">
+    <img src="/images/memories-5.jpg" loading="lazy">
+    <img src="/images/memories-6.jpg" loading="lazy">
+  </div>
+  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+</div>
+***
+
