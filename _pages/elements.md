@@ -10,24 +10,24 @@ Yuki's postdoctoral research focused on reverse-bioengineering human neural circ
 ***
 (Preprints)
 
-* Miura Y.*, Kim J.*, Jurjuț O., Kelley KW., Yang X., Chen X., Thete MV., Revah O., Cui B., Pachitariu M., Pașca S. P.
-Assembloid model to study loop circuits of the human nervous system
-bioRxiv 2024 *Equal contribution
+* <ins>Miura Y.</ins><sup>*</sup>, Kim J.<sup>*</sup>, Jurjuț O., Kelley KW., Yang X., Chen X., Thete MV., Revah O., Cui B., Pachitariu M., Pașca S. P.<br>
+Assembloid model to study loop circuits of the human nervous system<br>
+bioRxiv 2024. *Equal contribution
 
-* Narazaki G*., Miura Y.*, Pavlov S. D., Thete V. M., Roth J. G., Shin S., Heilshorn S. C., Pașca S. P.
-Biocompatible polymers for scalable production of human neural organoids
-bioRxiv 2022 [SPECTRUM NEWS] *Equal contribution
+* Narazaki G., <ins>Miura Y.</ins>, Pavlov S. D., Thete V. M., Roth J. G., Shin S., Heilshorn S. C., Pașca S. P.<br>
+Biocompatible polymers for scalable production of human neural organoids<br>
+bioRxiv 2022. *Equal contribution. [SPECTRUM NEWS], 
 
 (Peer-reviewed articles)
-* Kim J.*, Miura Y.*, Li MY*., Revah O., Selvaraj S., Birey Y., Meng X., Thete V. M., Pavlov S. D., Andersen J., Pașca A. M., Porteus H. M., Huguenard J. R., Pașca S. P.
-Human assembloids reveal the consequences of CACNA1G gene variants in the thalamocortical pathway
-Neuron 2024 in press *Equal contribution
+* Kim J.*, <ins>Miura Y.*</ins>, Li MY*., Revah O., Selvaraj S., Birey Y., Meng X., Thete V. M., Pavlov S. D., Andersen J., Pașca A. M., Porteus H. M., Huguenard J. R., Pașca S. P.<br>
+Human assembloids reveal the consequences of CACNA1G gene variants in the thalamocortical pathway<br>
+Neuron 2024 in press, *Equal contribution
 
-* Amin N.D.*, Kelly K.W.*, Kagonovsky K., Onesto M., Hao J., Miura Y., Narazaki G., Li T., McQueen P.J., Kulkarni S., Reis N., Pavlov S. D., Pașca S. P.
+* Amin N.D.*, Kelly K.W.*, Kagonovsky K., Onesto M., Hao J., <ins>Miura Y.</ins>, Narazaki G., Li T., McQueen P.J., Kulkarni S., Reis N., Pavlov S. D., Pașca S. P.
 Generating human neural diversity with a multiplexed morphogen screen in organoids
 Cell Stem Cell 2024 in press *Equal contribution
 
-* Yang X.*, Forró C*., Li T., Miura Y., Zaluska J. T., Tsai CT., Kanton S., McQueen P. J., Chen X., Mollo V., Santoro F., Pașca S. P., Cui B.
+* Yang X.*, Forró　C*., Li T., <ins>Miura Y.</ins>, Zaluska J. T., Tsai CT., Kanton S., McQueen P. J., Chen X., Mollo V., Santoro F., Pașca S. P., Cui B.
 Kirigami electronics for long-term electrophysiological recording of human neural organoids and assembloids
 Nature Biotechnology 2024 in press *Equal contribution
 
