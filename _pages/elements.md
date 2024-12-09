@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /Publications/
+permalink: /elements/
 image:
 page_cover:
 ---
@@ -17,7 +17,6 @@ page_cover:
   </div>
 </div>
 
-***
 (Preprints)
 
 * <ins>Miura Y.</ins><sup>*</sup>, Kim J.<sup>*</sup>, Jurjuț O., Kelley KW., Yang X., Chen X., Thete MV., Revah O., Cui B., Pachitariu M., Pașca S. P.<br>
