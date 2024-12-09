@@ -5,25 +5,27 @@ permalink: /elements/
 image:
 page_cover:
 ---
+***
 (Preprints)
-* <ins>Miura Y.</ins><sup>*</sup>, Kim J.<sup>*</sup>, Jurjuț O., Kelley KW., Yang X., Chen X., Thete MV., Revah O., Cui B., Pachitariu M., Pașca S. P.<br>
-Assembloid model to study loop circuits of the human nervous system<br>
+* **Assembloid model to study loop circuits of the human nervous system**<br>
+<ins>Miura Y.</ins><sup>*</sup>, Kim J.<sup>*</sup>, Jurjuț O., Kelley KW., Yang X., Chen X., Thete MV., Revah O., Cui B., Pachitariu M., Pașca S. P.<br>
 bioRxiv 2024. *Equal contribution
-* Narazaki G.<sup>*</sup>, <ins>Miura Y.</ins><sup>*</sup>, Pavlov S. D., Thete V. M., Roth J. G., Shin S., Heilshorn S. C., Pașca S. P.<br>
-Biocompatible polymers for scalable production of human neural organoids<br>
+* **Biocompatible polymers for scalable production of human neural organoids**<br>
+Narazaki G.<sup>*</sup>, <ins>Miura Y.</ins><sup>*</sup>, Pavlov S. D., Thete V. M., Roth J. G., Shin S., Heilshorn S. C., Pașca S. P.<br>
 bioRxiv 2022. <sup>*</sup>Equal contribution. [SPECTRUM NEWS], 
 
+***
 (Peer-reviewed articles)
-* Kim J.<sup>*</sup>, <ins>Miura Y.</ins><sup>*</sup>, Li MY.<sup>*</sup>, Revah O., Selvaraj S., Birey Y., Meng X., Thete V. M., Pavlov S. D., Andersen J., Pașca A. M., Porteus H. M., Huguenard J. R., Pașca S. P.<br>
-Human assembloids reveal the consequences of CACNA1G gene variants in the thalamocortical pathway<br>
-Neuron 2024 in press. *Equal contribution.
+* **Human assembloids reveal the consequences of CACNA1G gene variants in the thalamocortical pathway**<br>
+Kim J.<sup>*</sup>, <ins>Miura Y.</ins><sup>*</sup>, Li MY.<sup>*</sup>, Revah O., Selvaraj S., Birey Y., Meng X., Thete V. M., Pavlov S. D., Andersen J., Pașca A. M., Porteus H. M., Huguenard J. R., Pașca S. P.<br>
+Neuron 2024 in press. <sup>*</sup>Equal contribution.
 
-* Amin N.D.<sup>*</sup>, Kelly K.W.<sup>*</sup>, Kagonovsky K., Onesto M., Hao J., <ins>Miura Y.</ins>, Narazaki G., Li T., McQueen P.J., Kulkarni S., Reis N., Pavlov S. D., Pașca S. P.<br>
-Generating human neural diversity with a multiplexed morphogen screen in organoids<br>
+* **Generating human neural diversity with a multiplexed morphogen screen in organoids**<br>
+Amin N.D.<sup>*</sup>, Kelly K.W.<sup>*</sup>, Kagonovsky K., Onesto M., Hao J., <ins>Miura Y.</ins>, Narazaki G., Li T., McQueen P.J., Kulkarni S., Reis N., Pavlov S. D., Pașca S. P.<br>
 Cell Stem Cell 2024 in press. <sup>*</sup>Equal contribution.
 
-* Yang X.<sup>*</sup>, Forró　C<sup>*</sup>., Li T., <ins>Miura Y.</ins>, Zaluska J. T., Tsai CT., Kanton S., McQueen P. J., Chen X., Mollo V., Santoro F., Pașca S. P., Cui B.<br>
-Kirigami electronics for long-term electrophysiological recording of human neural organoids and assembloids<br>
+* **Kirigami electronics for long-term electrophysiological recording of human neural organoids and assembloids**<br>
+Yang X.<sup>*</sup>, Forró　C<sup>*</sup>., Li T., <ins>Miura Y.</ins>, Zaluska J. T., Tsai CT., Kanton S., McQueen P. J., Chen X., Mollo V., Santoro F., Pașca S. P., Cui B.<br>
 Nature Biotechnology 2024 in press. <sup>*</sup>Equal contribution.
 
 * <ins>Miura Y.</ins>, Li MY., Revah O., Yoon S. J., Narazaki G., Pașca S. P.<br>
@@ -81,6 +83,8 @@ Machineries regulating the activity of the small GTPase Arf6 in cancer cells are
 Adv Biol Regul. 2017 Jan;63:115-121.
 
 ***
+
+
 <div class="page__gallery__wrapper">
   <div class="page__gallery__images">
     <img src="/images/memories-1.jpg" loading="lazy">
