@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /elements/
+permalink: /Publications/
 image:
 page_cover:
 ---
@@ -15,7 +15,6 @@ page_cover:
     <img src="/images/memories-5.jpg" loading="lazy">
     <img src="/images/memories-6.jpg" loading="lazy">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
 ***
