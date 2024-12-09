@@ -90,7 +90,6 @@ Adv Biol Regul. 2017 Jan;63:115-121.
     <img src="/images/memories-5.jpg" loading="lazy">
     <img src="/images/memories-6.jpg" loading="lazy">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 ***
 
