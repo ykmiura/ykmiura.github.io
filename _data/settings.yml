@@ -26,7 +26,6 @@ menu_settings:
       url: '/'
     - title: 'About'
       url: '/about/'
-
     - title: 'Research'
       url: '/projects/'
     - title: 'Publications'
