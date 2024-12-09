@@ -85,8 +85,6 @@ Nat Biotechnol. (News and Views) 2019 Apr;37(4):377-378.
 Machineries regulating the activity of the small GTPase Arf6 in cancer cells are potential targets for developing innovative anti-cancer drugs
 Adv Biol Regul. 2017 Jan;63:115-121.
 
-
-
 ***
 
 ## Images
