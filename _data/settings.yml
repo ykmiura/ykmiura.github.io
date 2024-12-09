@@ -39,14 +39,14 @@ menu_settings:
 author:
   author_name: Yuki Miura
   author_role: Research Scientist
-  author_bio: Neurobiology and Stem Cell Scientist. Passionate about decoding the secrets of human nervous system development and tackling neuropsychiatric disorders. Expert in brain organoids, stem cell technologies, and functional cellular imaging to advance human neuroscience.
+  author_bio: Neurobiology and Stem Cell Scientist. Passionate about decoding the secrets of human nervous system development and functions, and tackling neurodevelopmental disorders. Expert in brain organoids and assembloids, stem cell technologies, and functional cellular imaging to advance human neuroscience.
   author_avatar: '/images/01-1.jpg'
 
 #-------------------------------
 # Publication Section
 blog_settings:
   enable: true
-  blog_title: Publication
+  blog_title: Publications
   blog_description:
 
 #-------------------------------
