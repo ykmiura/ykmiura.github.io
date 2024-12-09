@@ -26,10 +26,11 @@ menu_settings:
       url: '/'
     - title: 'About'
       url: '/about/'
+
     - title: 'Research'
       url: '/projects/'
     - title: 'Publications'
-      url: '/blog/'
+      url: '/elements/'
     - title: 'Gallery'
       url: '/gallery/'
 
