@@ -78,9 +78,6 @@ Ngo Thai Bich V., Hongu T., <ins>Miura Y.</ins>, Katagiri N., Ohbayashi N., Yama
 * **Machineries regulating the activity of the small GTPase Arf6 in cancer cells are potential targets for developing innovative anti-cancer drugs**<br>
 Yamauchi Y, <ins>Miura Y.</ins>, Kanaho Y.<br>
 ***Adv Biol Regul***. 2017 Jan;63:115-121.
-
-***
-
 <div class="page__gallery__wrapper">
   <div class="page__gallery__images">
     <img src="/images/memories-1.jpg" loading="lazy">
