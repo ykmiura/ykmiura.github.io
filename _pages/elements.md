@@ -5,27 +5,27 @@ permalink: /elements/
 image:
 page_cover:
 ---
-(Preprints)
+>(Preprints)
 * **Assembloid model to study loop circuits of the human nervous system**<br>
-<ins>Miura Y.</ins><sup>*</sup>, Kim J.<sup>*</sup>, Jurjuț O., Kelley KW., Yang X., Chen X., Thete MV., Revah O., Cui B., Pachitariu M., Pașca S. P.<br>
-*bioRxiv* 2024. *Equal contribution
+<ins>Miura Y.</ins>#, Kim J.#, Jurjuț O., Kelley KW., Yang X., Chen X., Thete MV., Revah O., Cui B., Pachitariu M., Pașca S. P.<br>
+*bioRxiv* 2024. #Equal contribution
 
 * **Biocompatible polymers for scalable production of human neural organoids**<br>
-Narazaki G.<sup>*</sup>, <ins>Miura Y.</ins><sup>*</sup>, Pavlov S. D., Thete V. M., Roth J. G., Shin S., Heilshorn S. C., Pașca S. P.<br>
-*bioRxiv* 2022. *Equal contribution. [SPECTRUM NEWS], 
+Narazaki G.#, <ins>Miura Y.</ins>#, Pavlov S. D., Thete V. M., Roth J. G., Shin S., Heilshorn S. C., Pașca S. P.<br>
+*bioRxiv* 2022. #Equal contribution. [SPECTRUM NEWS], 
 
-(Peer-reviewed articles)
+>(Peer-reviewed articles)
 * **Human assembloids reveal the consequences of CACNA1G gene variants in the thalamocortical pathway**<br>
-Kim J.<sup>*</sup>, <ins>Miura Y.</ins><sup>*</sup>, Li MY.<sup>*</sup>, Revah O., Selvaraj S., Birey Y., Meng X., Thete V. M., Pavlov S. D., Andersen J., Pașca A. M., Porteus H. M., Huguenard J. R., Pașca S. P.<br>
-*Neuron* 2024 in press. *Equal contribution.
+Kim J.#, <ins>Miura Y.</ins>#, Li MY.#, Revah O., Selvaraj S., Birey Y., Meng X., Thete V. M., Pavlov S. D., Andersen J., Pașca A. M., Porteus H. M., Huguenard J. R., Pașca S. P.<br>
+*Neuron* 2024 in press. #Equal contribution.
 
 * **Generating human neural diversity with a multiplexed morphogen screen in organoids**<br>
-Amin N.D.<sup>*</sup>, Kelly K.W.<sup>*</sup>, Kagonovsky K., Onesto M., Hao J., <ins>Miura Y.</ins>, Narazaki G., Li T., McQueen P.J., Kulkarni S., Reis N., Pavlov S. D., Pașca S. P.<br>
-*Cell Stem Cell* 2024 in press. *Equal contribution.
+Amin N.D.#, Kelly K.W.#, Kagonovsky K., Onesto M., Hao J., <ins>Miura Y.</ins>, Narazaki G., Li T., McQueen P.J., Kulkarni S., Reis N., Pavlov S. D., Pașca S. P.<br>
+*Cell Stem Cell* 2024 in press. #Equal contribution.
 
 * **Kirigami electronics for long-term electrophysiological recording of human neural organoids and assembloids**<br>
-Yang X.<sup>*</sup>, Forró　C<sup>*</sup>., Li T., <ins>Miura Y.</ins>, Zaluska J. T., Tsai CT., Kanton S., McQueen P. J., Chen X., Mollo V., Santoro F., Pașca S. P., Cui B.<br>
-*Nature Biotechnology* 2024 in press. *Equal contribution.
+Yang X.#, Forró　C#., Li T., <ins>Miura Y.</ins>, Zaluska J. T., Tsai CT., Kanton S., McQueen P. J., Chen X., Mollo V., Santoro F., Pașca S. P., Cui B.<br>
+*Nature Biotechnology* 2024 in press. #Equal contribution.
 
 * **Engineering brain assembloids to interrogate human neural circuits**<br>
 <ins>Miura Y.</ins>, Li MY., Revah O., Yoon S. J., Narazaki G., Pașca S. P.<br>
@@ -60,14 +60,14 @@ Ngo Thai Bich V., Hongu T., <ins>Miura Y.</ins>, Katagiri N., Ohbayashi N., Yama
 *Biochem Biophys Res Commun*. 2017 Nov 18;493(2):1089-1094.
 
 * **The small G protein Arf6 expressed in keratinocytes by HGF stimulation is a regulator for skin wound healing**<br> 
-<ins>Miura Y.</ins><sup>*</sup>, Ngo Thai Bich V.<sup>*</sup>, Furuya M., Hasegawa H., Takahashi S., Katagiri N., Hongu T., Funakoshi Y., Ohbayashi N., Kanaho Y.<br>
+<ins>Miura Y.</ins>#, Ngo Thai Bich V.#, Furuya M., Hasegawa H., Takahashi S., Katagiri N., Hongu T., Funakoshi Y., Ohbayashi N., Kanaho Y.<br>
 *Sci Rep*. 2017 Apr 21;7:46649. <sup>*</sup>Equal contribution.
 
 * **ACAP3 regulates neurite outgrowth through its GAP activity specific to Arf6 in mouse hippocampal neurons**<br>
-<ins>Miura Y.</ins><sup>*</sup>, Hongu T.<sup>*</sup>, Yamauchi Y., Funakoshi Y., Katagiri N., Ohbayashi N., Kanaho Y.<br>
+<ins>Miura Y.</ins>#, Hongu T.#, Yamauchi Y., Funakoshi Y., Katagiri N., Ohbayashi N., Kanaho Y.<br>
 *Biochem J*. 2016 Sep 1;473(17):2591-602. <sup>*</sup>Equal contribution.
 
-(Reviews and Preview papers)
+>(Reviews and Preview papers)
 * **Mapping human brain organoids on a spatial atlas**<br>
 <ins>Miura Y.</ins>, Pașca S. P.<br>
 *Cell Stem Cell*. (Preview) 2021 June;28(6):983-984.
