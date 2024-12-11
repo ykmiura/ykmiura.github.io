@@ -5,7 +5,6 @@ permalink: /elements/
 image:
 page_cover:
 ---
-
 (Preprints)
 * **Assembloid model to study loop circuits of the human nervous system**<br>
 <ins>Miura Y.</ins><sup>*</sup>, Kim J.<sup>*</sup>, Jurjuț O., Kelley KW., Yang X., Chen X., Thete MV., Revah O., Cui B., Pachitariu M., Pașca S. P.<br>
