@@ -84,7 +84,6 @@ Ngo Thai Bich V., Hongu T., <ins>Miura Y.</ins>, Katagiri N., Ohbayashi N., Yama
 Yamauchi Y, <ins>Miura Y.</ins>, Kanaho Y.<br>
 *Adv Biol Regul*. 2017 Jan;63:115-121.
 
-***
 <div class="page__gallery__wrapper">
   <div class="page__gallery__images">
     <img src="/images/Andersen_Cell_2020.tif.jpg" loading="lazy">
@@ -92,5 +91,4 @@ Yamauchi Y, <ins>Miura Y.</ins>, Kanaho Y.<br>
     <img src="/images/Yang_Nat_Biotech_2024.jpg" loading="lazy">
   </div>
 </div>
-***
 
