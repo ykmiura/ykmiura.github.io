@@ -85,9 +85,9 @@ Yamauchi Y, <ins>Miura Y.</ins>, Kanaho Y.<br>
 *Adv Biol Regul*. 2017 Jan;63:115-121.
 <div class="page__gallery__wrapper">
   <div class="page__gallery__images">
-    <img src="/images/memories-1.jpg" loading="lazy">
-    <img src="/images/memories-2.jpg" loading="lazy">
-    <img src="/images/memories-3.jpg" loading="lazy">
+    <img src="/images/Andersen_Cell_2020.tif.jpg" loading="lazy">
+    <img src="/images/Miura_Nat_Protocols_2022.jpg" loading="lazy">
+    <img src="/images/Yang_Nat_Biotech_2024.jpg" loading="lazy">
     <img src="/images/memories-4.jpg" loading="lazy">
     <img src="/images/memories-5.jpg" loading="lazy">
     <img src="/images/memories-6.jpg" loading="lazy">
