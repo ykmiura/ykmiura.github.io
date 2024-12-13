@@ -64,7 +64,7 @@ Ngo Thai Bich V., Hongu T., <ins>Miura Y.</ins>, Katagiri N., Ohbayashi N., Yama
 *Sci Rep*. 2017 Apr 21;7:46649. <sup>\*</sup>Equal contribution.
 
 * **ACAP3 regulates neurite outgrowth through its GAP activity specific to Arf6 in mouse hippocampal neurons**<br>
-<ins>Miura Y.</ins>\*, Hongu T.#\* Yamauchi Y., Funakoshi Y., Katagiri N., Ohbayashi N., Kanaho Y.<br>
+<ins>Miura Y.</ins>\*, Hongu T.\* Yamauchi Y., Funakoshi Y., Katagiri N., Ohbayashi N., Kanaho Y.<br>
 *Biochem J*. 2016 Sep 1;473(17):2591-602. <sup>\*</sup>Equal contribution.
 
 (Reviews and Preview papers)
