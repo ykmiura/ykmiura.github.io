@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /elements/
+permalink: /publications/
 image:
 page_cover:
 ---
