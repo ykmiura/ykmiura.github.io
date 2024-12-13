@@ -5,6 +5,13 @@ permalink: /publications/
 image:
 page_cover:
 ---
+<div class="page__gallery__wrapper">
+  <div class="page__gallery__images">
+    <img src="/images/Andersen_Cell_2020.tif.jpg" loading="lazy">
+    <img src="/images/Miura_Nat_Protocols_2022.jpg" loading="lazy">
+    <img src="/images/Yang_Nat_Biotech_2024.jpg" loading="lazy">
+  </div>
+</div>
 (Preprints)
 * **Assembloid model to study loop circuits of the human nervous system**<br>
 <ins>Miura Y.</ins>\*, Kim J.\*, Jurjuț O., Kelley KW., Yang X., Chen X., Thete MV., Revah O., Cui B., Pachitariu M., Pașca S. P.<br>
@@ -84,11 +91,5 @@ Ngo Thai Bich V., Hongu T., <ins>Miura Y.</ins>, Katagiri N., Ohbayashi N., Yama
 Yamauchi Y, <ins>Miura Y.</ins>, Kanaho Y.<br>
 *Adv Biol Regul*. 2017 Jan;63:115-121.
 
-<div class="page__gallery__wrapper">
-  <div class="page__gallery__images">
-    <img src="/images/Andersen_Cell_2020.tif.jpg" loading="lazy">
-    <img src="/images/Miura_Nat_Protocols_2022.jpg" loading="lazy">
-    <img src="/images/Yang_Nat_Biotech_2024.jpg" loading="lazy">
-  </div>
-</div>
+
 
