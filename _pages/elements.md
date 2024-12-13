@@ -13,9 +13,15 @@ page_cover:
 * **Biocompatible polymers for scalable production of human neural organoids**<br>
 Narazaki G.\*, <ins>Miura Y.</ins>\*, Pavlov S. D., Thete V. M., Roth J. G., Shin S., Heilshorn S. C., Pașca S. P.<br>
 *bioRxiv* 2022. <sup>\*</sup>Equal contribution. [SPECTRUM NEWS], 
-
 ***
-
+<div class="page__gallery__wrapper">
+  <div class="page__gallery__images">
+    <img src="/images/Andersen_Cell_2020.tif.jpg" loading="lazy">
+    <img src="/images/Miura_Nat_Protocols_2022.jpg" loading="lazy">
+    <img src="/images/Yang_Nat_Biotech_2024.jpg" loading="lazy">
+  </div>
+</div>
+***
 (Peer-reviewed articles)
 * **Human assembloids reveal the consequences of CACNA1G gene variants in the thalamocortical pathway**<br>
 Kim J.\*, <ins>Miura Y.</ins>\*, Li MY.\*, Revah O., Selvaraj S., Birey Y., Meng X., Thete V. M., Pavlov S. D., Andersen J., Pașca A. M., Porteus H. M., Huguenard J. R., Pașca S. P.<br>
@@ -83,15 +89,5 @@ Ngo Thai Bich V., Hongu T., <ins>Miura Y.</ins>, Katagiri N., Ohbayashi N., Yama
 * **Machineries regulating the activity of the small GTPase Arf6 in cancer cells are potential targets for developing innovative anti-cancer drugs**<br>
 Yamauchi Y, <ins>Miura Y.</ins>, Kanaho Y.<br>
 *Adv Biol Regul*. 2017 Jan;63:115-121.
-<div class="page__gallery__wrapper">
-  <div class="page__gallery__images">
-    <img src="/images/Andersen_Cell_2020.tif.jpg" loading="lazy">
-    <img src="/images/Miura_Nat_Protocols_2022.jpg" loading="lazy">
-    <img src="/images/Yang_Nat_Biotech_2024.jpg" loading="lazy">
-    <img src="/images/memories-4.jpg" loading="lazy">
-    <img src="/images/memories-5.jpg" loading="lazy">
-    <img src="/images/memories-6.jpg" loading="lazy">
-  </div>
-</div>
-***
+
 
