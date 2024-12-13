@@ -5,15 +5,6 @@ permalink: /elements/
 image:
 page_cover:
 ---
-***
-<div class="page__gallery__wrapper">
-  <div class="page__gallery__images">
-    <img src="/images/Andersen_Cell_2020.tif.jpg" loading="lazy">
-    <img src="/images/Miura_Nat_Protocols_2022.jpg" loading="lazy">
-    <img src="/images/Yang_Nat_Biotech_2024.jpg" loading="lazy">
-  </div>
-</div>
-***
 (Preprints)
 * **Assembloid model to study loop circuits of the human nervous system**<br>
 <ins>Miura Y.</ins>\*, Kim J.\*, Jurjuț O., Kelley KW., Yang X., Chen X., Thete MV., Revah O., Cui B., Pachitariu M., Pașca S. P.<br>
@@ -24,6 +15,7 @@ Narazaki G.\*, <ins>Miura Y.</ins>\*, Pavlov S. D., Thete V. M., Roth J. G., Shi
 *bioRxiv* 2022. <sup>\*</sup>Equal contribution. [SPECTRUM NEWS], 
 
 ***
+
 (Peer-reviewed articles)
 * **Human assembloids reveal the consequences of CACNA1G gene variants in the thalamocortical pathway**<br>
 Kim J.\*, <ins>Miura Y.</ins>\*, Li MY.\*, Revah O., Selvaraj S., Birey Y., Meng X., Thete V. M., Pavlov S. D., Andersen J., Pașca A. M., Porteus H. M., Huguenard J. R., Pașca S. P.<br>
@@ -92,4 +84,13 @@ Ngo Thai Bich V., Hongu T., <ins>Miura Y.</ins>, Katagiri N., Ohbayashi N., Yama
 Yamauchi Y, <ins>Miura Y.</ins>, Kanaho Y.<br>
 *Adv Biol Regul*. 2017 Jan;63:115-121.
 
+***
+<div class="page__gallery__wrapper">
+  <div class="page__gallery__images">
+    <img src="/images/Andersen_Cell_2020.tif.jpg" loading="lazy">
+    <img src="/images/Miura_Nat_Protocols_2022.jpg" loading="lazy">
+    <img src="/images/Yang_Nat_Biotech_2024.jpg" loading="lazy">
+  </div>
+</div>
+***
 
