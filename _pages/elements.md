@@ -5,14 +5,6 @@ permalink: /elements/
 image:
 page_cover:
 ---
-(Preprints)
-* **Assembloid model to study loop circuits of the human nervous system**<br>
-<ins>Miura Y.</ins>\*, Kim J.\*, Jurjuț O., Kelley KW., Yang X., Chen X., Thete MV., Revah O., Cui B., Pachitariu M., Pașca S. P.<br>
-*bioRxiv* 2024. <sup>\*</sup>Equal contribution
-
-* **Biocompatible polymers for scalable production of human neural organoids**<br>
-Narazaki G.\*, <ins>Miura Y.</ins>\*, Pavlov S. D., Thete V. M., Roth J. G., Shin S., Heilshorn S. C., Pașca S. P.<br>
-*bioRxiv* 2022. <sup>\*</sup>Equal contribution. [SPECTRUM NEWS], 
 ***
 <div class="page__gallery__wrapper">
   <div class="page__gallery__images">
@@ -21,6 +13,16 @@ Narazaki G.\*, <ins>Miura Y.</ins>\*, Pavlov S. D., Thete V. M., Roth J. G., Shi
     <img src="/images/Yang_Nat_Biotech_2024.jpg" loading="lazy">
   </div>
 </div>
+***
+(Preprints)
+* **Assembloid model to study loop circuits of the human nervous system**<br>
+<ins>Miura Y.</ins>\*, Kim J.\*, Jurjuț O., Kelley KW., Yang X., Chen X., Thete MV., Revah O., Cui B., Pachitariu M., Pașca S. P.<br>
+*bioRxiv* 2024. <sup>\*</sup>Equal contribution
+
+* **Biocompatible polymers for scalable production of human neural organoids**<br>
+Narazaki G.\*, <ins>Miura Y.</ins>\*, Pavlov S. D., Thete V. M., Roth J. G., Shin S., Heilshorn S. C., Pașca S. P.<br>
+*bioRxiv* 2022. <sup>\*</sup>Equal contribution. [SPECTRUM NEWS], 
+
 ***
 (Peer-reviewed articles)
 * **Human assembloids reveal the consequences of CACNA1G gene variants in the thalamocortical pathway**<br>
