@@ -14,6 +14,8 @@ page_cover:
 Narazaki G.\*, <ins>Miura Y.</ins>\*, Pavlov S. D., Thete V. M., Roth J. G., Shin S., Heilshorn S. C., Pașca S. P.<br>
 *bioRxiv* 2022. <sup>\*</sup>Equal contribution. [SPECTRUM NEWS], 
 
+***
+
 (Peer-reviewed articles)
 * **Human assembloids reveal the consequences of CACNA1G gene variants in the thalamocortical pathway**<br>
 Kim J.\*, <ins>Miura Y.</ins>\*, Li MY.\*, Revah O., Selvaraj S., Birey Y., Meng X., Thete V. M., Pavlov S. D., Andersen J., Pașca A. M., Porteus H. M., Huguenard J. R., Pașca S. P.<br>
@@ -66,6 +68,8 @@ Ngo Thai Bich V., Hongu T., <ins>Miura Y.</ins>, Katagiri N., Ohbayashi N., Yama
 * **ACAP3 regulates neurite outgrowth through its GAP activity specific to Arf6 in mouse hippocampal neurons**<br>
 <ins>Miura Y.</ins>\*, Hongu T.\* Yamauchi Y., Funakoshi Y., Katagiri N., Ohbayashi N., Kanaho Y.<br>
 *Biochem J*. 2016 Sep 1;473(17):2591-602. <sup>\*</sup>Equal contribution.
+
+***
 
 (Reviews and Preview papers)
 * **Mapping human brain organoids on a spatial atlas**<br>
