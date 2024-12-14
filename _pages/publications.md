@@ -12,7 +12,6 @@ page_cover:
     <img src="/images/Yang_Nat_Biotech_2024.jpg" loading="lazy">
   </div>
 </div>
-<br>
 >(Preprints)
 
 * **Assembloid model to study loop circuits of the human nervous system**<br>
@@ -22,7 +21,7 @@ page_cover:
 * **Biocompatible polymers for scalable production of human neural organoids**<br>
 Narazaki G.\*, <ins>Miura Y.</ins>\*, Pavlov S. D., Thete V. M., Roth J. G., Shin S., Heilshorn S. C., Pașca S. P.<br>
 *bioRxiv* 2022. <sup>\*</sup>Equal contribution. [SPECTRUM NEWS], 
-<br>
+
 >(Peer-reviewed articles)
 
 * **Human assembloids reveal the consequences of CACNA1G gene variants in the thalamocortical pathway**<br>
@@ -76,7 +75,7 @@ Ngo Thai Bich V., Hongu T., <ins>Miura Y.</ins>, Katagiri N., Ohbayashi N., Yama
 * **ACAP3 regulates neurite outgrowth through its GAP activity specific to Arf6 in mouse hippocampal neurons**<br>
 <ins>Miura Y.</ins>\*, Hongu T.\* Yamauchi Y., Funakoshi Y., Katagiri N., Ohbayashi N., Kanaho Y.<br>
 *Biochem J*. 2016 Sep 1;473(17):2591-602. <sup>\*</sup>Equal contribution.
-<br>
+
 >(Reviews and Preview papers)
 
 * **Mapping human brain organoids on a spatial atlas**<br>
