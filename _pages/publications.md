@@ -20,7 +20,7 @@ page_cover:
 
 * [**Biocompatible polymers for scalable production of human neural organoids**](https://www.biorxiv.org/content/10.1101/2022.03.18.484949v2.abstract)<br>
 Narazaki G.\*, <ins>Miura Y.</ins>\*, Pavlov S. D., Thete V. M., Roth J. G., Shin S., Heilshorn S. C., Pașca S. P.<br>
-*bioRxiv* 2022. <sup>\*</sup>Equal contribution. [SPECTRUM NEWS](https://www.thetransmitter.org/spectrum/community-newsletter-organoid-drug-screens-intervention-overreach-self-advocates-concerns/?fspec=1), 
+*bioRxiv* 2022. <sup>\*</sup>Equal contribution. [/[SPECTRUM NEWS/]](https://www.thetransmitter.org/spectrum/community-newsletter-organoid-drug-screens-intervention-overreach-self-advocates-concerns/?fspec=1), 
 
 >(Peer-reviewed articles)
 
