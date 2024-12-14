@@ -12,7 +12,7 @@ page_cover:
     <img src="/images/Yang_Nat_Biotech_2024.jpg" loading="lazy">
   </div>
 </div>
-(Preprints)
+>(Preprints)
 * **Assembloid model to study loop circuits of the human nervous system**<br>
 <ins>Miura Y.</ins>\*, Kim J.\*, Jurjuț O., Kelley KW., Yang X., Chen X., Thete MV., Revah O., Cui B., Pachitariu M., Pașca S. P.<br>
 *bioRxiv* 2024. <sup>\*</sup>Equal contribution
@@ -23,7 +23,7 @@ Narazaki G.\*, <ins>Miura Y.</ins>\*, Pavlov S. D., Thete V. M., Roth J. G., Shi
 
 ***
 
-(Peer-reviewed articles)
+>(Peer-reviewed articles)
 * **Human assembloids reveal the consequences of CACNA1G gene variants in the thalamocortical pathway**<br>
 Kim J.\*, <ins>Miura Y.</ins>\*, Li MY.\*, Revah O., Selvaraj S., Birey Y., Meng X., Thete V. M., Pavlov S. D., Andersen J., Pașca A. M., Porteus H. M., Huguenard J. R., Pașca S. P.<br>
 *Neuron* 2024 in press. <sup>\*</sup>Equal contribution.
@@ -78,7 +78,7 @@ Ngo Thai Bich V., Hongu T., <ins>Miura Y.</ins>, Katagiri N., Ohbayashi N., Yama
 
 ***
 
-(Reviews and Preview papers)
+>(Reviews and Preview papers)
 * **Mapping human brain organoids on a spatial atlas**<br>
 <ins>Miura Y.</ins>, Pașca S. P.<br>
 *Cell Stem Cell*. (Preview) 2021 June;28(6):983-984.
