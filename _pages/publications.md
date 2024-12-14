@@ -14,7 +14,7 @@ page_cover:
 </div>
 >(Preprints)
 
-* **Assembloid model to study loop circuits of the human nervous system**<br>
+* [**Assembloid model to study loop circuits of the human nervous system**](https://www.biorxiv.org/content/10.1101/2024.10.13.617729v1)<br>
 <ins>Miura Y.</ins>\*, Kim J.\*, Jurjuț O., Kelley KW., Yang X., Chen X., Thete MV., Revah O., Cui B., Pachitariu M., Pașca S. P.<br>
 *bioRxiv* 2024. <sup>\*</sup>Equal contribution
 
