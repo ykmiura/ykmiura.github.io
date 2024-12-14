@@ -28,13 +28,13 @@ Narazaki G.\*, <ins>Miura Y.</ins>\*, Pavlov S. D., Thete V. M., Roth J. G., Shi
 Kim J.\*, <ins>Miura Y.</ins>\*, Li MY.\*, Revah O., Selvaraj S., Birey Y., Meng X., Thete V. M., Pavlov S. D., Andersen J., Pașca A. M., Porteus H. M., Huguenard J. R., Pașca S. P.<br>
 *Neuron* 2024 in press. <sup>\*</sup>Equal contribution. [Preprint](https://www.biorxiv.org/content/10.1101/2023.03.15.530726v2)
 
-* **Generating human neural diversity with a multiplexed morphogen screen in organoids**<br>
-Amin N.D.\*, Kelly K.W.\*, Kagonovsky K., Onesto M., Hao J., <ins>Miura Y.</ins>, Narazaki G., Li T., McQueen P.J., Kulkarni S., Reis N., Pavlov S. D., Pașca S. P.<br>
-*Cell Stem Cell* 2024 in press. <sup>\*</sup>Equal contribution.
-
-* **Kirigami electronics for long-term electrophysiological recording of human neural organoids and assembloids**<br>
+* [**Kirigami electronics for long-term electrophysiological recording of human neural organoids and assembloids**](https://www.nature.com/articles/s41587-023-02081-3)<br>
 Yang X.\*, Forró　C\*., Li T., <ins>Miura Y.</ins>, Zaluska J. T., Tsai CT., Kanton S., McQueen P. J., Chen X., Mollo V., Santoro F., Pașca S. P., Cui B.<br>
-*Nature Biotechnology* 2024 in press. <sup>\*</sup>Equal contribution.
+*Nature Biotechnology* 2024 Dec 42:1836–1843. <sup>\*</sup>Equal contribution. [News & Views](https://www.nature.com/articles/s41587-024-02128-z) [Research Highlight](https://www.nature.com/articles/s44222-024-00164-7)
+
+* [**Generating human neural diversity with a multiplexed morphogen screen in organoids**](https://www.cell.com/cell-stem-cell/abstract/S1934-5909(24)00378-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1934590924003783%3Fshowall%3Dtrue)<br>
+Amin N.D.\*, Kelly K.W.\*, Kagonovsky K., Onesto M., Hao J., <ins>Miura Y.</ins>, Narazaki G., Li T., McQueen P.J., Kulkarni S., Reis N., Pavlov S. D., Pașca S. P.<br>
+*Cell Stem Cell* 2024 Dec 5;31(12):1831-1846.e9. <sup>\*</sup>Equal contribution. [Preprint](https://www.biorxiv.org/content/10.1101/2023.05.31.541819v1) [preLights](https://prelights.biologists.com/highlights/generating-human-neural-diversity-with-a-multiplexed-morphogen-screen-in-organoids/)
 
 * **Engineering brain assembloids to interrogate human neural circuits**<br>
 <ins>Miura Y.</ins>, Li MY., Revah O., Yoon S. J., Narazaki G., Pașca S. P.<br>
