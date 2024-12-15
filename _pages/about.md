@@ -6,7 +6,13 @@ permalink: /about/
 image:
 page_cover: '/images/01.jpg'
 ---
-
+<div class="page__gallery__wrapper">
+  <div class="page__gallery__images">
+    <img src="/images/Hippocmpal_neuron1" loading="lazy">
+    <img src="/images/Hippocmpal_neuron2" loading="lazy">
+    <img src="/images/Hippocmpal_neuron3" loading="lazy">
+  </div>
+</div>
 ## Education and Training
 
 Yuki earned his Ph.D. in Human Biology from the University of Tsukuba under the mentorship of Dr. Yasunori Kanaho. His doctoral research focused on the biochemical and physiological roles of the small G protein Arf6 and its regulator ACAP3 in neuronal development. Through this work, he elucidated the molecular mechanisms underlying neurite morphogenesis and cortical neuron migration, significantly advancing our understanding of central nervous system development.
