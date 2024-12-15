@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Research
-description: Yuki's postdoctoral research focused on reverse-bioengineering human neural circuit development and investigating neuropsychiatric disorders using stem cell-based organoid and assembloid technologies. Key achievements include the following works.
+description: Research at the Miura Lab focuses on uncovering the mechanisms of human nervous system development and functions, as well as the pathological processes underlying neurological disorders. Using advanced stem cell-based technologies, including neural organoids and assembloids, we recreate complex cellular processes, such as cell migration and axon projection within human neural circuits, to understand their assembly during development and disruption in disease states. By integrating molecular approaches such as CRISPR gene editing, live-cell imaging, and single-cell transcriptomics, my recent work aims to elucidate disease-associated abnormalities from cellular to system-wide levels. This research bridges fundamental neurodevelopmental biology with translational science, striving to identify therapeutic targets for these challenging conditions.
 permalink: /research/
-image: '/images/YM_word_cloud.jpg'
+image: '/images/01.jpg'
 page_cover: '/images/01.jpg'
 ---
 
