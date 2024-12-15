@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Research
-description: My research focuses on uncovering the mechanisms of human nervous system development and functions, as well as the pathological processes underlying neurological disorders. Using advanced stem cell-based technologies, including neural organoids and assembloids, we recreate complex cellular processes, such as axon projection and synaptic formation within human neural circuits, to understand their assembly during development and disruption in disease states. By integrating molecular approaches such as CRISPR gene editing, live-cell imaging, and single-cell transcriptomics, my recent works aim to elucidate disease-associated abnormalities from cellular to system-wide levels. This research bridges fundamental neurodevelopmental biology with translational science, striving to identify therapeutic targets for these challenging conditions.
+description: My research focuses on uncovering the mechanisms of human nervous system development and functions, as well as the pathological processes underlying neurological disorders. Using advanced stem cell-based technologies, including neural organoids and assembloids, we recreate complex cellular processes, such as axon projection and synaptic formation within human neural circuits, to understand their assembly during development and disruption in disease states. By integrating molecular approaches such as CRISPR gene editing, live-cell imaging, and single-cell transcriptomics, my recent works aim to elucidate disease-associated abnormalities from cellular to system-wide levels.
 permalink: /research/
-image: '/images/01-2.jpg'
+image: '/images/YM_word_cloud.jpg'
 page_cover: '/images/01.jpg'
 ---
 
