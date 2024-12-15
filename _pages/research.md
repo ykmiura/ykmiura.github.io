@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-description: Yuki Miura is a neuroscientist with extensive experience in human neural circuit development, stem cell biology, and the modeling of neurodevelopmental disorders. His scientific journey began with a deep curiosity about the molecular and cellular mechanisms of brain assembly, leading him to pioneer cutting-edge methodologies using stem cell-based brain organoids and assembloids. Over the years, he has honed his expertise to decode the complexities of neural connectivity and its implications for neuropsychiatric disorders, such as autism spectrum disorders, schizophrenia, and Tourette syndrome.
+description: Yuki's postdoctoral research focused on reverse-bioengineering human neural circuit development and investigating neuropsychiatric disorders using stem cell-based organoid and assembloid technologies. Key achievements include the following works.
 permalink: /research/
 image: '/images/YM_word_cloud.jpg'
 page_cover: '/images/01.jpg'
