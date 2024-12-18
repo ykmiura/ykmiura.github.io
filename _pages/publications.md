@@ -19,13 +19,14 @@ page_cover:
 *bioRxiv* 2024. <sup>\*</sup>Equal contribution
 
 >(Peer-reviewed articles)
+
 * [**Biocompatible polymers for scalable production of human neural organoids**](https://www.biorxiv.org/content/10.1101/2022.03.18.484949v2.abstract)<br>
 Narazaki G.\*, <ins>Miura Y.</ins>\*, Pavlov S. D., Thete V. M., Roth J. G., Avar M., Shin S., Kim J., Hudacova Z., Heilshorn S. C., Pașca S. P.<br>
 *Nat Biomed Eng* 2024 accepted. <sup>\*</sup>Equal contribution. [[SPECTRUM NEWS]](https://www.thetransmitter.org/spectrum/community-newsletter-organoid-drug-screens-intervention-overreach-self-advocates-concerns/?fspec=1), 
 
 * [**Human assembloids reveal the consequences of CACNA1G gene variants in the thalamocortical pathway**](https://www.cell.com/neuron/abstract/S0896-6273(24)00692-5)<br>
 Kim J.\*, <ins>Miura Y.</ins>\*, Li MY.\*, Revah O., Selvaraj S., Birey Y., Meng X., Thete V. M., Pavlov S. D., Andersen J., Pașca A. M., Porteus H. M., Huguenard J. R., Pașca S. P.<br>
-*Neuron* 2024 112(24):4048 - 4059.e7. <sup>\*</sup>Equal contribution. [[Preprint]](https://www.biorxiv.org/content/10.1101/2023.03.15.530726v2)
+*Neuron* 2024 Dec 112(24):4048–4059.e7. <sup>\*</sup>Equal contribution. [[Preprint]](https://www.biorxiv.org/content/10.1101/2023.03.15.530726v2)
 
 * [**Kirigami electronics for long-term electrophysiological recording of human neural organoids and assembloids**](https://www.nature.com/articles/s41587-023-02081-3)<br>
 Yang X.\*, Forró　C\*., Li T., <ins>Miura Y.</ins>, Zaluska J. T., Tsai CT., Kanton S., McQueen P. J., Chen X., Mollo V., Santoro F., Pașca S. P., Cui B.<br>
