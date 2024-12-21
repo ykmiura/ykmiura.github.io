@@ -16,21 +16,21 @@ page_cover:
 
 * [**Assembloid model to study loop circuits of the human nervous system**](https://www.biorxiv.org/content/10.1101/2024.10.13.617729v1)<br>
 <ins>Miura Y.</ins>\*, Kim J.\*, Jurjuț O., Kelley KW., Yang X., Chen X., Thete MV., Revah O., Cui B., Pachitariu M., Pașca S. P.<br>
-*bioRxiv* 2024. <sup>\*</sup>Equal contribution
+*bioRxiv* 2024. <sup>\*</sup>Equal contribution. [[THE TRANSMITTER]](https://www.thetransmitter.org/spectrum/assembloids-illuminate-circuit-level-changes-linked-to-autism-neurodevelopment/)
 
 >(Peer-reviewed articles)
 
 * [**Biocompatible polymers for scalable production of human neural organoids**](https://www.biorxiv.org/content/10.1101/2022.03.18.484949v2.abstract)<br>
 Narazaki G.\*, <ins>Miura Y.</ins>\*, Pavlov S. D., Thete V. M., Roth J. G., Avar M., Shin S., Kim J., Hudacova Z., Heilshorn S. C., Pașca S. P.<br>
-*Nature Biomeddical Engineering* 2024 accepted. <sup>\*</sup>Equal contribution. [[SPECTRUM NEWS]](https://www.thetransmitter.org/spectrum/community-newsletter-organoid-drug-screens-intervention-overreach-self-advocates-concerns/?fspec=1), 
+*Nature Biomeddical Engineering* 2024 accepted. <sup>\*</sup>Equal contribution. [[SPECTRUM NEWS]](https://www.thetransmitter.org/spectrum/community-newsletter-organoid-drug-screens-intervention-overreach-self-advocates-concerns/?fspec=1) 
 
 * [**Human assembloids reveal the consequences of CACNA1G gene variants in the thalamocortical pathway**](https://www.cell.com/neuron/abstract/S0896-6273(24)00692-5)<br>
 Kim J.\*, <ins>Miura Y.</ins>\*, Li MY.\*, Revah O., Selvaraj S., Birey Y., Meng X., Thete V. M., Pavlov S. D., Andersen J., Pașca A. M., Porteus H. M., Huguenard J. R., Pașca S. P.<br>
-*Neuron* 2024 Dec 112(24):4048–4059.e7. <sup>\*</sup>Equal contribution. [[Preprint]](https://www.biorxiv.org/content/10.1101/2023.03.15.530726v2)
+*Neuron* 2024 Dec 112(24):4048–4059.e7. <sup>\*</sup>Equal contribution. [[Preprint]](https://www.biorxiv.org/content/10.1101/2023.03.15.530726v2) [[THE TRANSMITTER]](https://www.thetransmitter.org/spectrum/assembloids-illuminate-circuit-level-changes-linked-to-autism-neurodevelopment/)
 
 * [**Kirigami electronics for long-term electrophysiological recording of human neural organoids and assembloids**](https://www.nature.com/articles/s41587-023-02081-3)<br>
-Yang X.\*, Forró　C\*., Li T., <ins>Miura Y.</ins>, Zaluska J. T., Tsai CT., Kanton S., McQueen P. J., Chen X., Mollo V., Santoro F., Pașca S. P., Cui B.<br>
-*Nature Biotechnology* 2024 Dec 42:1836–1843. <sup>\*</sup>Equal contribution. [[News & Views]](https://www.nature.com/articles/s41587-024-02128-z) [[Research Highlight]](https://www.nature.com/articles/s44222-024-00164-7)
+Yang X.\*, Forró　C.\*, Li T., <ins>Miura Y.</ins>, Zaluska J. T., Tsai CT., Kanton S., McQueen P. J., Chen X., Mollo V., Santoro F., Pașca S. P., Cui B.<br>
+*Nature Biotechnology* 2024 Dec 42:1836–1843. <sup>\*</sup>Equal contribution. [[News & Views]](https://www.nature.com/articles/s41587-024-02128-z) [[Research Highlight]](https://www.nature.com/articles/s44222-024-00164-7) [[2024: research in review]](https://www.nature.com/articles/s41587-024-02508-5)
 
 * [**Generating human neural diversity with a multiplexed morphogen screen in organoids**](https://www.cell.com/cell-stem-cell/abstract/S1934-5909(24)00378-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1934590924003783%3Fshowall%3Dtrue)<br>
 Amin N.D.\*, Kelly K.W.\*, Kagonovsky K., Onesto M., Hao J., <ins>Miura Y.</ins>, Narazaki G., Li T., McQueen P.J., Kulkarni S., Reis N., Pavlov S. D., Pașca S. P.<br>
