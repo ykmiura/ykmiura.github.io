@@ -3,7 +3,7 @@ layouts: post
 title: Assembloid model to study loop circuits of the human nervous system
 description:
 date: 2024-02-18 15:01:35 +0300
-image: '/images/Miura_and_Kim_bioRxiv_2024.png'
+image: '/images/01.jpg'
 tags: [Publications]
 ---
 
