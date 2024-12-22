@@ -7,8 +7,6 @@ image: '/images/Miura_and_Kim_bioRxiv_2024.png'
 tags: [Publications]
 ---
 
-When designing your home setup, consider factors such as lighting, ergonomics, and organization. Ensure that your workspace is well-lit with natural or artificial light, as it can significantly impact your mood and energy levels. Invest in an ergonomic chair and adjustable desk to maintain good posture and reduce the risk of strain or discomfort.
-
-![Lunch](/images/Miura_and_Kim_bioRxiv_2024.png)
+![Paper](/images/Miura_and_Kim_bioRxiv_2024.png)
 
 Incorporating elements of inspiration and personalization into your home setup can help boost creativity and motivation. Display artwork, photographs, or motivational quotes that resonate with you. Consider adding plants to your workspace, as they not only add visual appeal but also purify the air and create a refreshing atmosphere.
