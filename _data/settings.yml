@@ -46,7 +46,7 @@ author:
 # Publication Section
 blog_settings:
   enable: true
-  blog_title: Publications
+  blog_title: Highlighted Publications
   blog_description:
 
 #-------------------------------
