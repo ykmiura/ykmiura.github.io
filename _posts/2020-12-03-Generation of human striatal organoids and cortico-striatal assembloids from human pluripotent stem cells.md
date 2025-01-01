@@ -2,7 +2,7 @@
 layouts: post
 title: Generation of human striatal organoids and cortico-striatal assembloids from human pluripotent stem cells
 description:
-date: 2024-02-16 15:01:35 +0300
+date: 2020-12-03 15:01:35 +0300
 image:
 tags: [Publications]
 ---
