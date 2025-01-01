@@ -2,7 +2,7 @@
 layouts: post
 title: Human assembloids reveal the consequences of CACNA1G gene variants in the thalamocortical pathway
 description: 
-date: 2024-02-17 15:01:35 +0300
+date: 2024-12-18 15:01:35 +0300
 image: 
 tags: [Publications]
 ---
